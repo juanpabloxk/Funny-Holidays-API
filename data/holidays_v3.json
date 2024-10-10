@@ -1,0 +1,2594 @@
+[
+  {
+    "date": "Jan 1",
+    "weekday": "Monday",
+    "holiday_name": "Polar Bear Plunge Day",
+    "description": "Start off the year with an act of daredevilry. Celebrate Polar Plunge Day on January 1 by taking a dip in the cold, freezing waters of your local lake, river or pond."
+  },
+  {
+    "date": "Jan 2",
+    "weekday": "Tuesday",
+    "holiday_name": "Buffet Day",
+    "description": "Want to hit the buffet table one last time before you start your New Years resolution? Then Buffet Day on January 2 is the fun food holiday for you."
+  },
+  {
+    "date": "Jan 2",
+    "weekday": "Tuesday",
+    "holiday_name": "Run It up the Flagpole and See If Anyone Salutes It Day",
+    "description": "Januaryis the month of new beginnings, so it is only fitting that January 2 is Run It Up The Flagpole And See If Anyone Salutes It Day."
+  },
+  {
+    "date": "Jan 2",
+    "weekday": "Tuesday",
+    "holiday_name": "Science Fiction Day",
+    "description": "Science fiction fans around the world celebrate January 2 as Science Fiction Day. It celebrates science fiction writer Isaac Asimov's official birthday."
+  },
+  {
+    "date": "Jan 3",
+    "weekday": "Wednesday",
+    "holiday_name": "Fruitcake Toss Day",
+    "description": "Fruitcake Toss Day on January 3 is an annual holiday that celebrates fruitcakes - the gift that keeps on giving - by tossing them in an empty space."
+  },
+  {
+    "date": "Jan 3",
+    "weekday": "Wednesday",
+    "holiday_name": "Festival of Sleep Day",
+    "description": "Take a break on January 3 or Festival of Sleep Day by sleeping in, taking naps or just staying in bed the whole day long."
+  },
+  {
+    "date": "Jan 4",
+    "weekday": "Thursday",
+    "holiday_name": "Trivia Day",
+    "description": "Here is some trivia for you - January 4 is Trivia Day."
+  },
+  {
+    "date": "Jan 5",
+    "weekday": "Friday",
+    "holiday_name": "Bird Day",
+    "description": "January 5 is Bird Day, a day to think about birds in captivity and to take action to ensure that birds are not exploited and are treated humanely."
+  },
+  {
+    "date": "Jan 6",
+    "weekday": "Saturday",
+    "holiday_name": "Bean Day",
+    "description": "January 6 is Bean Day. If your question after hearing this is, why? Well, because beans are healthy they are rich in proteins and fiber and they taste good."
+  },
+  {
+    "date": "Jan 7",
+    "weekday": "Sunday",
+    "holiday_name": "Old Rock Day",
+    "description": "January 7 is Old Rock Day. The unofficial holiday encourages people to acknowledge, celebrate, and learn more about old rocks and fossils."
+  },
+  {
+    "date": "Jan 8",
+    "weekday": "Monday",
+    "holiday_name": "Earth's Rotation Day",
+    "description": "January 8 is Earths Rotation Day. The day commemorates when French Physicist, Leon Foucault, demonstrated the Earth rotates on its axis in 1851."
+  },
+  {
+    "date": "Jan 8",
+    "weekday": "Monday",
+    "holiday_name": "Clean Off Your Desk Day",
+    "description": "To honor an uncluttered, organized and clean workspace, the second Monday of January is celebrated as the Clean Off Your Desk Day."
+  },
+  {
+    "date": "Jan 9",
+    "weekday": "Tuesday",
+    "holiday_name": "Static Electricity Day",
+    "description": "January 9 is Static Electricity Day a day to honor this unexpected, mostly unpleasant, and sometimes hair rising phenomenon."
+  },
+  {
+    "date": "Jan 9",
+    "weekday": "Tuesday",
+    "holiday_name": "Word Nerd Day",
+    "description": "Word Nerd Day is celebrated annually on January 9."
+  },
+  {
+    "date": "Jan 10",
+    "weekday": "Wednesday",
+    "holiday_name": "Cut Your Energy Costs Day",
+    "description": "Forgot to add being thrifty and eco-friendly to your New Years resolution list? Now is your chance to rectify that because January 10 is Cut your Energy Cost Day."
+  },
+  {
+    "date": "Jan 11",
+    "weekday": "Thursday",
+    "holiday_name": "Learn Your Name in Morse Code Day",
+    "description": "January 11 is celebrated annually as Learn Your Name in Morse Code Day."
+  },
+  {
+    "date": "Jan 12",
+    "weekday": "Friday",
+    "holiday_name": "Marzipan Day",
+    "description": "Celebrate marzipan, the sweet, almond-based multi-purpose confectionary on January 12, Marzipan Day."
+  },
+  {
+    "date": "Jan 13",
+    "weekday": "Saturday",
+    "holiday_name": "Make Your Dreams Come True Day",
+    "description": "January 13 is Make your Dreams Come True Day. If you have been procrastinating on fulfilling your dream, this is your chance to get things right."
+  },
+  {
+    "date": "Jan 14",
+    "weekday": "Sunday",
+    "holiday_name": "Organize Your Home Day",
+    "description": "January 14 get started early on this year's spring cleaning and organizing on Organize Your Home Day."
+  },
+  {
+    "date": "Jan 15",
+    "weekday": "Monday",
+    "holiday_name": "Strawberry Ice Cream Day",
+    "description": "January 15 is Strawberry Ice Cream Day. It is an unofficial holiday that celebrates ice cream made with strawberries or added strawberry flavors."
+  },
+  {
+    "date": "Jan 15",
+    "weekday": "Monday",
+    "holiday_name": "Bagel and Lox Day",
+    "description": "Bagel and Lox Day is an unofficial holiday dedicated to the quintessential Jewish American dish made of bagels, cream cheese, and lox or cured salmon."
+  },
+  {
+    "date": "Jan 16",
+    "weekday": "Tuesday",
+    "holiday_name": "Nothing Day",
+    "description": "January 16 is Nothing Day, a day to celebrate, well, nothing."
+  },
+  {
+    "date": "Jan 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Benjamin Franklin Day",
+    "description": "January 17 is celebrated worldwide as Benjamin Franklin Day."
+  },
+  {
+    "date": "Jan 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Kid Inventors' Day",
+    "description": "January 17 is Kid Inventors Day (KID), a day to encourage all the children in your life to think outside the box and invent something."
+  },
+  {
+    "date": "Jan 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Ditch New Year's Resolution Day",
+    "description": "January 17 or Ditch New Years Resolution Day is popularly thought to be the day when a large number of people abandon their New Years resolutions."
+  },
+  {
+    "date": "Jan 18",
+    "weekday": "Thursday",
+    "holiday_name": "Thesaurus Day",
+    "description": "January 18 is Thesaurus Day. Impress your family and friends with big, complicated, and fancy sounding words to celebrate this lexicographic holiday."
+  },
+  {
+    "date": "Jan 19",
+    "weekday": "Friday",
+    "holiday_name": "Tin Can Day",
+    "description": "On January 19 crack open a can of sardines because it's Tin Can Day."
+  },
+  {
+    "date": "Jan 19",
+    "weekday": "Friday",
+    "holiday_name": "Popcorn Day",
+    "description": "January 19 is Popcorn Day, a day to organize an impromptu movie night, just so that you can enjoy a tub or two of crunchy, salty and buttery popcorn. Or, if you have a sweet tooth, treat yourself to some delicious caramel popcorn."
+  },
+  {
+    "date": "Jan 20",
+    "weekday": "Saturday",
+    "holiday_name": "Soup Swap Day",
+    "description": "Host a soup swap on the third Saturday of January to celebrate Soup Swap Day."
+  },
+  {
+    "date": "Jan 20",
+    "weekday": "Saturday",
+    "holiday_name": "Penguin Awareness Day",
+    "description": "January 20 is Penguin Awareness Day. The day helps raise awareness about the flightless birds whose numbers are dwindling by the day."
+  },
+  {
+    "date": "Jan 21",
+    "weekday": "Sunday",
+    "holiday_name": "Squirrel Appreciation Day",
+    "description": "January 21 is Squirrel Appreciation Day, a day to acknowledge the role that squirrels play in nature and the environment."
+  },
+  {
+    "date": "Jan 22",
+    "weekday": "Monday",
+    "holiday_name": "Hot Sauce Day",
+    "description": "Turn the heat up in your kitchen or on your dining table by adding hot sauce to everything you eat on January 22, because it is Hot Sauce Day."
+  },
+  {
+    "date": "Jan 22",
+    "weekday": "Monday",
+    "holiday_name": "Answer Your Cat's Questions Day",
+    "description": "Cats, they are inquisitive creatures by nature. Answer all their questions on January 22, Answer All Your Cats Questions Day."
+  },
+  {
+    "date": "Jan 23",
+    "weekday": "Tuesday",
+    "holiday_name": "Handwriting Day",
+    "description": "January 23 is Handwriting Day, a day to get your hands on a pen or pencil and paper and practice and revive the elegant art of handwriting."
+  },
+  {
+    "date": "Jan 24",
+    "weekday": "Wednesday",
+    "holiday_name": "Compliment Day",
+    "description": "Compliments - they are free, easy to give and receive, they make people happy and build trust. So give someone a compliment someone on January 24, Compliment Day."
+  },
+  {
+    "date": "Jan 24",
+    "weekday": "Wednesday",
+    "holiday_name": "Macintosh Computer Day",
+    "description": "January 24 is Macintosh Computer Day."
+  },
+  {
+    "date": "Jan 25",
+    "weekday": "Thursday",
+    "holiday_name": "Opposite Day",
+    "description": "Ever wanted to be a rebel? Now is your chance. Dont celebrate Opposite Day on January 25 by doing everything the wrong way."
+  },
+  {
+    "date": "Jan 26",
+    "weekday": "Friday",
+    "holiday_name": "Spouse's Day",
+    "description": "January 26 is Spouse's Day, a day to celebrate your spouse, better half, or significant other."
+  },
+  {
+    "date": "Jan 27",
+    "weekday": "Saturday",
+    "holiday_name": "Chocolate Cake Day",
+    "description": "Chocolate Cake Day on January 27 celebrates everyones and their grandma's favorite cake."
+  },
+  {
+    "date": "Jan 27",
+    "weekday": "Saturday",
+    "holiday_name": "e-Day",
+    "description": "e-Day celebrates the mathematical constante, which has a value of 2.7182818. It is celebrated on February 7 in countries that follow the month/day (m/d) date format. This is because the first two digits of the date - 2/7 - correspond to the first two digits of the constant."
+  },
+  {
+    "date": "Jan 28",
+    "weekday": "Sunday",
+    "holiday_name": "Data Privacy Day",
+    "description": "January 28 is Data Privacy Day. It is observed every year in theUnited States,United Kingdom, and many other European countries."
+  },
+  {
+    "date": "Jan 28",
+    "weekday": "Sunday",
+    "holiday_name": "Fun at Work Day",
+    "description": "Have double the fun on April 1, because it is not onlyApril Fools Daybut it is also Fun at Work Day."
+  },
+  {
+    "date": "Jan 29",
+    "weekday": "Monday",
+    "holiday_name": "Puzzle Day",
+    "description": "What is 24 hours long, all about solving problems, and is one of the best unofficial holidays of the year? Puzzle Day, of course."
+  },
+  {
+    "date": "Jan 30",
+    "weekday": "Tuesday",
+    "holiday_name": "Croissant Day",
+    "description": "On January 30 wake up and head straight to your favorite bakery to get a croissant for your breakfast, because it is Croissant Day."
+  },
+  {
+    "date": "Jan 31",
+    "weekday": "Wednesday",
+    "holiday_name": "Backwards Day",
+    "description": "Bored with doing the same thing in and out? On January 31, take a break from the rut by doing everything backwards, because it is Backwards Day."
+  },
+  {
+    "date": "Feb 2",
+    "weekday": "Friday",
+    "holiday_name": "Work Naked Day",
+    "description": "Do you dream of working from home in your most comfortable attire? Then Work Naked Day on the first Friday of February is the holiday for you."
+  },
+  {
+    "date": "Feb 2",
+    "weekday": "Friday",
+    "holiday_name": "Day of the Cr\u00eape",
+    "description": "February 2 is celebrated as the Day of the Cr\u00eape inFrance."
+  },
+  {
+    "date": "Feb 2",
+    "weekday": "Friday",
+    "holiday_name": "Play Your Ukulele Day",
+    "description": "On February 2 bring out your ukulele and strum it all day long because it is Play Your Ukulele Day."
+  },
+  {
+    "date": "Feb 3",
+    "weekday": "Saturday",
+    "holiday_name": "Eat Ice Cream for Breakfast Day",
+    "description": "Make ice cream the breakfast of champions on the first Saturday of February, also known as Eat Ice Cream for Breakfast Day."
+  },
+  {
+    "date": "Feb 3",
+    "weekday": "Saturday",
+    "holiday_name": "Carrot Cake Day",
+    "description": "Celebrated annually on February 3, the holiday celebrates this cake made with carrots."
+  },
+  {
+    "date": "Feb 4",
+    "weekday": "Sunday",
+    "holiday_name": "Thank Your Mailman Day",
+    "description": "Thank Your Mailman Day is celebrated on February 4 every year."
+  },
+  {
+    "date": "Feb 4",
+    "weekday": "Sunday",
+    "holiday_name": "Create a Vacuum Day",
+    "description": "They say that nothing ever happens in a vacuum, but this holiday - Create a Vacuum Day, on February 4 - seems to have emerged from one."
+  },
+  {
+    "date": "Feb 4",
+    "weekday": "Sunday",
+    "holiday_name": "Stuffed Mushroom Day",
+    "description": "February 4 is Stuffed Mushroom Day. Also known as National Stuffed Mushroom Day in theUnited States, this made-up holiday clearly encourages people to make and consume lots and lots of stuffed mushrooms."
+  },
+  {
+    "date": "Feb 5",
+    "weekday": "Monday",
+    "holiday_name": "National Weatherperson's Day",
+    "description": "National Weatherpersons Day is celebrated every year on February 5."
+  },
+  {
+    "date": "Feb 5",
+    "weekday": "Monday",
+    "holiday_name": "Chocolate Fondue Day",
+    "description": "February 5 is Chocolate Fondue Day, a made-up holiday that encourages people to get together with family and friends and enjoy a fondue pot of delicious and gooey melted chocolate."
+  },
+  {
+    "date": "Feb 6",
+    "weekday": "Tuesday",
+    "holiday_name": "Lame Duck Day",
+    "description": "February 6 is Lame Duck Day. The unofficial holiday honors anyone who is on their way out of their jobs or their elected office."
+  },
+  {
+    "date": "Feb 7",
+    "weekday": "Wednesday",
+    "holiday_name": "e-Day",
+    "description": "e-Day celebrates the mathematical constante, which has a value of 2.7182818. It is celebrated on February 7 in countries that follow the month/day (m/d) date format. This is because the first two digits of the date - 2/7 - correspond to the first two digits of the constant."
+  },
+  {
+    "date": "Feb 7",
+    "weekday": "Wednesday",
+    "holiday_name": "Send a Card to a Friend Day",
+    "description": "February 7 is Send a Card to a Friend Day."
+  },
+  {
+    "date": "Feb 8",
+    "weekday": "Thursday",
+    "holiday_name": "Laugh and Get Rich Day",
+    "description": "February 8 is Laugh and Get Rich Day. A day for enriching your life with happiness."
+  },
+  {
+    "date": "Feb 9",
+    "weekday": "Friday",
+    "holiday_name": "Toothache Day",
+    "description": "February 9 is Toothache Day. It is admittedly not a fun holiday, especially if you are suffering from, or have bad memories of, a toothache."
+  },
+  {
+    "date": "Feb 9",
+    "weekday": "Friday",
+    "holiday_name": "Bagel and Lox Day",
+    "description": "Bagel and Lox Day is an unofficial holiday dedicated to the quintessential Jewish American dish made of bagels, cream cheese, and lox or cured salmon."
+  },
+  {
+    "date": "Feb 10",
+    "weekday": "Saturday",
+    "holiday_name": "Umbrella Day",
+    "description": "February 10 is Umbrella Day, so honor the humble umbrella for shielding you from the elements all year long."
+  },
+  {
+    "date": "Feb 11",
+    "weekday": "Sunday",
+    "holiday_name": "Make a Friend Day",
+    "description": "Make a Friend Day on February 11 is an unofficial holiday that encourages people to stop and take stock of their friend list and make new friends."
+  },
+  {
+    "date": "Feb 11",
+    "weekday": "Sunday",
+    "holiday_name": "Don't Cry Over Spilled Milk Day",
+    "description": "February 11 is Dont Cry Over Spilled Milk Day, an annual reminder that nothing good ever comes out of holding on to regrets."
+  },
+  {
+    "date": "Feb 12",
+    "weekday": "Monday",
+    "holiday_name": "Clean Out Your Computer Day",
+    "description": "Have you been putting off cleaning out those old files on your desktop? Well, today is the day you should do it, because it is Clean Out Your Computer Day."
+  },
+  {
+    "date": "Feb 12",
+    "weekday": "Monday",
+    "holiday_name": "Darwin Day",
+    "description": "Darwin Day is held annually on or around February 12, the birthday of Charles Darwin."
+  },
+  {
+    "date": "Feb 13",
+    "weekday": "Tuesday",
+    "holiday_name": "World Radio Day",
+    "description": "On February 13 or World Radio Day, take the time to honor the role of radio in the world of communication and its contribution in our daily lives."
+  },
+  {
+    "date": "Feb 14",
+    "weekday": "Wednesday",
+    "holiday_name": "Ferris Wheel Day",
+    "description": "February 14 is Ferris Wheel Day, a day to honor the life and time of Ferris wheel inventor George Washington Gale Ferris, Jr."
+  },
+  {
+    "date": "Feb 14",
+    "weekday": "Wednesday",
+    "holiday_name": "Library Lovers Day",
+    "description": "February 14 is not onlyValentines Day, it's also Library Lovers Day. It is a day to honor libraries, librarians, bookworms, and library lovers in your life."
+  },
+  {
+    "date": "Feb 15",
+    "weekday": "Thursday",
+    "holiday_name": "Gumdrop Day",
+    "description": "February 15 is Gumdrop Day. Celebrate this day by treating yourself to a bowlful of the colorful, chewy, and delicious candy."
+  },
+  {
+    "date": "Feb 16",
+    "weekday": "Friday",
+    "holiday_name": "Do a Grouch a Favor Day",
+    "description": "On February 16 or Do a Grouch a Favor Day, make someones day by doing something nice for them and getting them out of their funk."
+  },
+  {
+    "date": "Feb 17",
+    "weekday": "Saturday",
+    "holiday_name": "Random Act of Kindness Day",
+    "description": "February 17, also known as Random Act of Kindness Day, is a day to practice kindness and pay it forward."
+  },
+  {
+    "date": "Feb 18",
+    "weekday": "Sunday",
+    "holiday_name": "Battery Day",
+    "description": "February 18 is Battery Day. It is a day to acknowledge the device that makes it possible for the smallest household items to the largest heavy-duty equipment to work smoothly."
+  },
+  {
+    "date": "Feb 19",
+    "weekday": "Monday",
+    "holiday_name": "Chocolate Mint Day",
+    "description": "Chocolate Mint Day on February 19 is devoted to the classic combination of chocolate and mint"
+  },
+  {
+    "date": "Feb 22",
+    "weekday": "Thursday",
+    "holiday_name": "Single Tasking Day",
+    "description": "You may have been praised for your multitasking skills, but have you ever tried single tasking i.e. doing only one thing at a time? Try it on February 22, Single Tasking Day."
+  },
+  {
+    "date": "Feb 22",
+    "weekday": "Thursday",
+    "holiday_name": "Be Humble Day",
+    "description": "Practice humility on February 22 or Be Humble Day."
+  },
+  {
+    "date": "Feb 23",
+    "weekday": "Friday",
+    "holiday_name": "International Dog Biscuit Appreciation Day",
+    "description": "February 23 is Dog Biscuit Appreciation Day. Show your appreciation for your furry canine friends by spoiling them with their favorite dog biscuits."
+  },
+  {
+    "date": "Feb 24",
+    "weekday": "Saturday",
+    "holiday_name": "Tortilla Chip Day",
+    "description": "Honor the tortilla chip the carrier of delicious dips on February 24, Tortilla Chip Day."
+  },
+  {
+    "date": "Feb 24",
+    "weekday": "Saturday",
+    "holiday_name": "World Sword Swallowers Day",
+    "description": "If you enjoy seeing people do dangerous things, you will enjoy celebrating World Sword Swallowers Day on the last Saturday of February."
+  },
+  {
+    "date": "Feb 26",
+    "weekday": "Monday",
+    "holiday_name": "Pistachio Day",
+    "description": "Archeologists believe that pistachios were used as food as early as 6000 BCE. Celebrate this ancient and healthy nut on February 26, Pistachio Day."
+  },
+  {
+    "date": "Feb 26",
+    "weekday": "Monday",
+    "holiday_name": "Tell a Fairy Tale Day",
+    "description": "Tell a Fairy Tale Day is on February 26. The unofficial holiday encourages celebrators to read, tell, and listen to fairy tales from around the world."
+  },
+  {
+    "date": "Feb 27",
+    "weekday": "Tuesday",
+    "holiday_name": "International Polar Bear Day",
+    "description": "International Polar Bear Day on February 27 is an unofficial holiday created by Polar Bear International (PBI). It raises awareness of the impact of global warming on Polar Bears."
+  },
+  {
+    "date": "Feb 27",
+    "weekday": "Tuesday",
+    "holiday_name": "No Brainer Day",
+    "description": "February 27 is No Brainer Day. It is believed that the holiday was created by Adrienne Sioux Koopersmith in theUnited Statesas a way to remind people that most things are simple and that many problems we encounter daily have obvious and easy solutions."
+  },
+  {
+    "date": "Feb 28",
+    "weekday": "Wednesday",
+    "holiday_name": "Public Sleeping Day",
+    "description": "Catch a few winks or take a long nap in public to celebrate Public Sleeping Day on February 28."
+  },
+  {
+    "date": "Mar 1",
+    "weekday": "Friday",
+    "holiday_name": "World Compliment Day",
+    "description": "March 1 is celebrated as World Compliment Day, a day that aims to address the basic human need for recognition and appreciation.\u201d"
+  },
+  {
+    "date": "Mar 1",
+    "weekday": "Friday",
+    "holiday_name": "Plan a Solo Vacation Day",
+    "description": "Need a vacation and dont have a traveling companion? Then March 1 or Plan a Solo Vacation Day is the unofficial holiday for you."
+  },
+  {
+    "date": "Mar 2",
+    "weekday": "Saturday",
+    "holiday_name": "Old Stuff Day",
+    "description": "March 2 is Old Stuff Day. Take some time on this made-up holiday to appreciate the beauty of all things old and vintage."
+  },
+  {
+    "date": "Mar 3",
+    "weekday": "Sunday",
+    "holiday_name": "I Want You to be Happy Day",
+    "description": "March 3 is I Want You to be Happy Day, a day to set aside selfish thoughts and to make someone feel special and happy."
+  },
+  {
+    "date": "Mar 4",
+    "weekday": "Monday",
+    "holiday_name": "March Forth and Do Something Day",
+    "description": "March Forth and Do Something Day is a made-up holiday celebrated each year on March 4."
+  },
+  {
+    "date": "Mar 5",
+    "weekday": "Tuesday",
+    "holiday_name": "Learn What Your Name Means Day",
+    "description": "On March 5, or Learn What Your Name Means Day, do some research to find out the out the origin and history of your name - first and last. Maybe you'll find a great tale behind your name!"
+  },
+  {
+    "date": "Mar 5",
+    "weekday": "Tuesday",
+    "holiday_name": "Cinco de Marcho",
+    "description": "A play onCinco de Mayo, Cinco de Marcho is an unofficial holiday celebrated annually on March 5. The made-up holiday encourages people to get ready forSt. Patricks Dayon March 17."
+  },
+  {
+    "date": "Mar 6",
+    "weekday": "Wednesday",
+    "holiday_name": "Dentists Day",
+    "description": "Celebrate dentists all over the world and honor their role in keeping us healthy and smiling on March 6 or Dentists Day."
+  },
+  {
+    "date": "Mar 7",
+    "weekday": "Thursday",
+    "holiday_name": "Alexander Graham Bell Day",
+    "description": "Alexander Graham Bell Day is celebrated every year on March 7."
+  },
+  {
+    "date": "Mar 8",
+    "weekday": "Friday",
+    "holiday_name": "Proofreading Day",
+    "description": "March 8 is Proofreading Day. The day promotes error-free communication and encourages everyone to spend some time updating and expanding his or her proofreading skills."
+  },
+  {
+    "date": "Mar 10",
+    "weekday": "Sunday",
+    "holiday_name": "Mario Day",
+    "description": "March 10 is Mario Day, a day to celebrate the main character of the popular Nintendo video game franchise, Super Mario."
+  },
+  {
+    "date": "Mar 11",
+    "weekday": "Monday",
+    "holiday_name": "Napping Day",
+    "description": "Napping Day is an unofficial holiday that falls on the Monday afterDSTbegins in theUnited States."
+  },
+  {
+    "date": "Mar 11",
+    "weekday": "Monday",
+    "holiday_name": "Oatmeal Nut Waffle Day",
+    "description": "March 11 is Oatmeal Nut Waffle Day. It is a day to treat yourself to not just waffles, but the healthier version of the popular breakfast food."
+  },
+  {
+    "date": "Mar 12",
+    "weekday": "Tuesday",
+    "holiday_name": "Alfred Hitchcock Day",
+    "description": "March 12 is National Alfred Hitchcock Day, a day to celebrate the life, times, and work of master filmmaker Alfred Hitchcock."
+  },
+  {
+    "date": "Mar 13",
+    "weekday": "Wednesday",
+    "holiday_name": "Jewel Day",
+    "description": "Celebrate all things shiny, blingy, and sparkly on March 13, or Jewel Day."
+  },
+  {
+    "date": "Mar 14",
+    "weekday": "Thursday",
+    "holiday_name": "Pi Day",
+    "description": "March 14 is Pi Day. It is a day to celebrate the mathematical constant pi (\u03c0) and to eat lots of pie."
+  },
+  {
+    "date": "Mar 15",
+    "weekday": "Friday",
+    "holiday_name": "Everything You Think is Wrong Day",
+    "description": "March 15 is Everything You Think is Wrong Day."
+  },
+  {
+    "date": "Mar 16",
+    "weekday": "Saturday",
+    "holiday_name": "Every Thing You Do is Right Day",
+    "description": "Because every bad day is followed by a good day, March 16 is Everything You Do is Right Day."
+  },
+  {
+    "date": "Mar 17",
+    "weekday": "Sunday",
+    "holiday_name": "Submarine Day",
+    "description": "March 17 is Submarine Day. The unofficial holiday celebrates the technological advances that make the use of the watercraft possible."
+  },
+  {
+    "date": "Mar 18",
+    "weekday": "Monday",
+    "holiday_name": "Awkward Moments Day",
+    "description": "On March 18, or Awkward Moments Day, celebrate (or forget) those awkward and embarrassing moments in our lives that may have made us want to hide."
+  },
+  {
+    "date": "Mar 19",
+    "weekday": "Tuesday",
+    "holiday_name": "Let's Laugh Day",
+    "description": "Lets Laugh Day is celebrated every year on March 19. It is an unofficial holiday that encourages people to laugh and enjoy the benefits of laughter."
+  },
+  {
+    "date": "Mar 20",
+    "weekday": "Wednesday",
+    "holiday_name": "World Storytelling Day",
+    "description": "World Storytelling Day is celebrated globally every year on theMarch Equinox."
+  },
+  {
+    "date": "Mar 20",
+    "weekday": "Wednesday",
+    "holiday_name": "Proposal Day",
+    "description": "March 20 is Proposal Day, a day to pop the question and ask your significant other to marry you."
+  },
+  {
+    "date": "Mar 21",
+    "weekday": "Thursday",
+    "holiday_name": "Absolutely Incredible Kid Day",
+    "description": "Honor all the incredible kids in your life on Absolutely Incredible Kids Day, a holiday celebrated every year on the third Thursday in March."
+  },
+  {
+    "date": "Mar 21",
+    "weekday": "Thursday",
+    "holiday_name": "Common Courtesy Day",
+    "description": "March 21 is Common Courtesy Day, a day to practice common courtesy."
+  },
+  {
+    "date": "Mar 22",
+    "weekday": "Friday",
+    "holiday_name": "International Goof Off Day",
+    "description": "March 22 is International Goof Off Day. The unofficial holiday encourages people to take the day to relax and do unproductive and useless things."
+  },
+  {
+    "date": "Mar 23",
+    "weekday": "Saturday",
+    "holiday_name": "Puppy Day",
+    "description": "March 23 is Puppy Day, a day reserved for recognizing the joy and love that puppies bring to our lives."
+  },
+  {
+    "date": "Mar 23",
+    "weekday": "Saturday",
+    "holiday_name": "Near Miss Day",
+    "description": "March 23 is Near Miss Day, an annual reminder of the day in 1989 when an asteroid nearly collided with the Earth."
+  },
+  {
+    "date": "Mar 24",
+    "weekday": "Sunday",
+    "holiday_name": "Chocolate Covered Raisins Day",
+    "description": "Celebrate the almost healthy, chewy, and chocolatey snack on March 24 or Chocolate Covered Raisin Day."
+  },
+  {
+    "date": "Mar 25",
+    "weekday": "Monday",
+    "holiday_name": "Waffle Day",
+    "description": "Waffles have, as far as we know, three holidays in the year dedicated to them On March 11, March 25, and August 24."
+  },
+  {
+    "date": "Mar 25",
+    "weekday": "Monday",
+    "holiday_name": "Tolkien Reading Day",
+    "description": "March 25 is Tolkien Reading Day. Celebrate the unofficial holiday by reading some of your favorite Tolkien books."
+  },
+  {
+    "date": "Mar 26",
+    "weekday": "Tuesday",
+    "holiday_name": "Make Up Your Own Holiday Day",
+    "description": "March 26 is Make Up Your Own Holiday Day. It is a day to think up of a thing, person, animal, phrase, or food and create a holiday to celebrate it."
+  },
+  {
+    "date": "Mar 27",
+    "weekday": "Wednesday",
+    "holiday_name": "Spanish Paella Day",
+    "description": "March 27 is Spanish Paella Day. Celebrate this unofficial holiday by cooking this rice and saffron dish."
+  },
+  {
+    "date": "Mar 28",
+    "weekday": "Thursday",
+    "holiday_name": "Something on a Stick Day",
+    "description": "March 28 is Something on a Stick Day. It is a day to have fun with your food and to celebrate delicious and easy-to-eat dishes on a stick."
+  },
+  {
+    "date": "Mar 29",
+    "weekday": "Friday",
+    "holiday_name": "Smoke and Mirrors Day",
+    "description": "Celebrate the magic on Smoke and Mirrors Day. Also sometimes known as Festival of Smoke and Mirrors Day, this unofficial holiday is celebrated annually on March 29."
+  },
+  {
+    "date": "Mar 30",
+    "weekday": "Saturday",
+    "holiday_name": "Take a Walk in the Park Day",
+    "description": "Commune with nature and enjoy the bounties it has to offer on Take a Walk in the Park Day."
+  },
+  {
+    "date": "Mar 31",
+    "weekday": "Sunday",
+    "holiday_name": "Bunsen Burner Day",
+    "description": "Bunsen Burner Day on March 31 celebrates the inventor of the Bunsen Burner, German chemist Robert Wilhelm Eberhard von Bunsen."
+  },
+  {
+    "date": "Apr 1",
+    "weekday": "Monday",
+    "holiday_name": "Fun at Work Day",
+    "description": "Have double the fun on April 1, because it is not onlyApril Fools Daybut it is also Fun at Work Day."
+  },
+  {
+    "date": "Apr 3",
+    "weekday": "Wednesday",
+    "holiday_name": "World Party Day",
+    "description": "April 3 is World Party Day. Also known as P Day, it is an annually celebrated unofficial holiday that aims to achieve social change and harmony by encouraging people to celebrate life by partying."
+  },
+  {
+    "date": "Apr 4",
+    "weekday": "Thursday",
+    "holiday_name": "Tell a Lie Day",
+    "description": "Nope, we arent lying, we promise! April 4 is Tell a Lie Day!"
+  },
+  {
+    "date": "Apr 5",
+    "weekday": "Friday",
+    "holiday_name": "Walk to Work Day",
+    "description": "Years of medical research has shown that walking is one of the best ways to stay healthy and keep your body in shape. So, once a year, why not take the doctors advice and walk to work on Walk to Work Day?"
+  },
+  {
+    "date": "Apr 5",
+    "weekday": "Friday",
+    "holiday_name": "Read a Road Map Day",
+    "description": "Read a Road Map Day is on April 5.  It encourages people to go on an adventure the old-fashioned way with a paper map!"
+  },
+  {
+    "date": "Apr 5",
+    "weekday": "Friday",
+    "holiday_name": "First Contact Day",
+    "description": "Fans of the sci-fi series Star Trek celebrate First Contact Day on April 5 to mark the day in 2063 when humans make their first contact with the Vulcans."
+  },
+  {
+    "date": "Apr 6",
+    "weekday": "Saturday",
+    "holiday_name": "Sorry Charlie Day",
+    "description": "April 6 is Sorry Charlie Day, a day to recognize that everyone gets rejected sometimes in his or her life. The name of the holiday comes from the phraseSorry Charlie, popular in theUnited States."
+  },
+  {
+    "date": "Apr 9",
+    "weekday": "Tuesday",
+    "holiday_name": "Be Kind to Lawyers Day",
+    "description": "Honor the lawyer in your life on Be Kind to Lawyers Day, celebrated annually on the second Tuesday of April."
+  },
+  {
+    "date": "Apr 10",
+    "weekday": "Wednesday",
+    "holiday_name": "Siblings Day",
+    "description": "Honor your sibling on Siblings Day, an unofficial holiday celebrated annually on April 10."
+  },
+  {
+    "date": "Apr 11",
+    "weekday": "Thursday",
+    "holiday_name": "Submarine Day",
+    "description": "March 17 is Submarine Day. The unofficial holiday celebrates the technological advances that make the use of the watercraft possible."
+  },
+  {
+    "date": "Apr 11",
+    "weekday": "Thursday",
+    "holiday_name": "Barbershop Quartet Day",
+    "description": "April 11 is Barbershop Quartet Day, a day that celebrates barbershop music, a style of harmony singing without any accompanying music."
+  },
+  {
+    "date": "Apr 12",
+    "weekday": "Friday",
+    "holiday_name": "Grilled Cheese Day",
+    "description": "April 12 is Grilled Cheese Day, a day to celebrate this hearty bread and cheese dish and to make every meal out of it."
+  },
+  {
+    "date": "Apr 12",
+    "weekday": "Friday",
+    "holiday_name": "Yuri's Night",
+    "description": "April 12 is Yuris Night, an unofficial annual holiday that honors and celebrates human space exploration."
+  },
+  {
+    "date": "Apr 13",
+    "weekday": "Saturday",
+    "holiday_name": "Scrabble Day",
+    "description": "April 13 is Scrabble Day, a day to celebrate the popular board game created in 1938 by Alfred Mosher Butts, an American architect."
+  },
+  {
+    "date": "Apr 14",
+    "weekday": "Sunday",
+    "holiday_name": "International Moment of Laughter Day",
+    "description": "On April 14, stop, smell the roses, and laugh a little (or a lot), because it is International Moment of Laughter Day."
+  },
+  {
+    "date": "Apr 14",
+    "weekday": "Sunday",
+    "holiday_name": "Reach as High as You Can Day",
+    "description": "April 14 is Reach as High as You Can Day, a day to expand your horizons and try to attain that dream that seems so hard and so far to reach."
+  },
+  {
+    "date": "Apr 14",
+    "weekday": "Sunday",
+    "holiday_name": "Look up the Sky Day",
+    "description": "On April 14, step out of your home or office and take a few minutes to look up at the sky because it is Look up the Sky Day."
+  },
+  {
+    "date": "Apr 16",
+    "weekday": "Tuesday",
+    "holiday_name": "Eggs Benedict Day",
+    "description": "Celebrate the hearty breakfast (or any other meal, in our very humble opinion) that is Eggs Benedict on April 16, Eggs Benedict Day."
+  },
+  {
+    "date": "Apr 16",
+    "weekday": "Tuesday",
+    "holiday_name": "Wear Pajamas to Work Day",
+    "description": "On April 16, lay aside your usual work attire and replace it with your pajamas to celebrate Wear your Pajamas to Work Day."
+  },
+  {
+    "date": "Apr 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Haiku Poetry Day",
+    "description": "April 17 is Haiku Poetry Day. The unofficial holiday honors the short poetry form that originated in Japan."
+  },
+  {
+    "date": "Apr 18",
+    "weekday": "Thursday",
+    "holiday_name": "Columnist Day",
+    "description": "April 18 is celebrated annually as Columnists Day to commemorate the life and work of columnist Ernest Taylor Pyle."
+  },
+  {
+    "date": "Apr 20",
+    "weekday": "Saturday",
+    "holiday_name": "Look Alike Day",
+    "description": "If you have ever been told that you look familiar or look like someone else, then Look Alike Day on April 20 is the holiday you should be celebrating."
+  },
+  {
+    "date": "Apr 22",
+    "weekday": "Monday",
+    "holiday_name": "Jelly Bean Day",
+    "description": "April 22 is Jelly Bean Day. It is an unofficial holiday that honors the sugary bean-shaped candies that are hard on the outside and gel-like on the inside."
+  },
+  {
+    "date": "Apr 23",
+    "weekday": "Tuesday",
+    "holiday_name": "Take a Chance Day",
+    "description": "Take A Chance Day on April 23 is the perfect excuse for you to play with some odds and venture out into unchartered territories."
+  },
+  {
+    "date": "Apr 23",
+    "weekday": "Tuesday",
+    "holiday_name": "Impossible Astronaut Day",
+    "description": "Fans of the British science fiction television series, Doctor Who, celebrate April 23 as Impossible Astronaut Day."
+  },
+  {
+    "date": "Apr 23",
+    "weekday": "Tuesday",
+    "holiday_name": "Lover's Day",
+    "description": "April 23 is Lover's Day, a day to celebrate your significant other and let them know how much they mean to you."
+  },
+  {
+    "date": "Apr 25",
+    "weekday": "Thursday",
+    "holiday_name": "Take Our Daughters and Sons to Work Day",
+    "description": "Take Our Daughters and Sons to Work Day is celebrated every year on the fourth Thursday in April."
+  },
+  {
+    "date": "Apr 25",
+    "weekday": "Thursday",
+    "holiday_name": "DNA Day",
+    "description": "Observed every year on April 25 since 2003, DNA Day celebrates and recognizes the importance of genetics and the scientific advances made in the field."
+  },
+  {
+    "date": "Apr 26",
+    "weekday": "Friday",
+    "holiday_name": "Pretzel Day",
+    "description": "Celebrate the doughy, salty snack called Pretzel on April 26, Pretzel Day."
+  },
+  {
+    "date": "Apr 26",
+    "weekday": "Friday",
+    "holiday_name": "Richter Scale Day",
+    "description": "April 26 is Richter Scale Day. The unofficial holiday honors the life and work of American seismologist Charles Francis Richter."
+  },
+  {
+    "date": "Apr 28",
+    "weekday": "Sunday",
+    "holiday_name": "World Pinhole Photography Day",
+    "description": "The last Sunday in April is celebrated worldwide as World Pinhole Photography Day."
+  },
+  {
+    "date": "Apr 29",
+    "weekday": "Monday",
+    "holiday_name": "Zipper Day",
+    "description": "On April 29, celebrate the zipper it because it is Zipper Day."
+  },
+  {
+    "date": "Apr 30",
+    "weekday": "Tuesday",
+    "holiday_name": "Honesty Day",
+    "description": "Aprilbegins with a day that celebrates falsehoods April Fools Day. End it with a day that celebrates and acknowledges the importance of honesty Honesty Day."
+  },
+  {
+    "date": "May 1",
+    "weekday": "Wednesday",
+    "holiday_name": "Batman Day",
+    "description": "May 1 is Batman Day. The unofficial holiday celebrates and honors one of the world's most well-known comic book superhero. While the origins of this holiday are unknown, the general consensus is that the day commemorates the date in 1939 when the crime fighter made his debut in the Detective Comics"
+  },
+  {
+    "date": "May 3",
+    "weekday": "Friday",
+    "holiday_name": "No Pants Day",
+    "description": "No Pants Day is an unofficial holiday that occurs on the first Friday of May. Celebrated mostly in theUnited States, it calls for participants to spend their day without wearing pants in public. Participants are encouraged to act as if not wearing pants is a normal thing to do."
+  },
+  {
+    "date": "May 3",
+    "weekday": "Friday",
+    "holiday_name": "Space Day",
+    "description": "Space Day is celebrated annually on the first Friday of May. An unofficial educational holiday created in 1997 by Lockheed Martin, Space Day aims to promote the STEM (science, technology, engineering, and mathematics) fields among young people."
+  },
+  {
+    "date": "May 4",
+    "weekday": "Saturday",
+    "holiday_name": "Herb Day",
+    "description": "Herb Day is an unofficial holiday annually celebrated on the first Saturday of May."
+  },
+  {
+    "date": "May 4",
+    "weekday": "Saturday",
+    "holiday_name": "Free Comic Book Day",
+    "description": "The first Saturday of May every year is celebrated around the world as Free Comic Book Day. On this day, participating specialty comic book stores give out free comics to anyone visiting their stores."
+  },
+  {
+    "date": "May 4",
+    "weekday": "Saturday",
+    "holiday_name": "Star Wars Day",
+    "description": "May 4 is celebrated as Star Wars Day by fans of the popular sci-fi film series, Star Wars. It is one of the two days in a year that recognizes the place of the Star Wars franchise in popular culture."
+  },
+  {
+    "date": "May 6",
+    "weekday": "Monday",
+    "holiday_name": "Beverage Day",
+    "description": "Raise a glass to all your favorite beverages on Beverage Day."
+  },
+  {
+    "date": "May 8",
+    "weekday": "Wednesday",
+    "holiday_name": "National School Nurse Day",
+    "description": "The Wednesday between May 6 and May 12 of each year is National School Nurse Day, a day to celebrate and thank all school nurses that take care of children when they are at school."
+  },
+  {
+    "date": "May 9",
+    "weekday": "Thursday",
+    "holiday_name": "Europe Day",
+    "description": "May 9 is celebrated as Europe Day in the European Union (E.U.) and around the world."
+  },
+  {
+    "date": "May 9",
+    "weekday": "Thursday",
+    "holiday_name": "Lost Sock Memorial Day",
+    "description": "Lost Sock Memorial Day on May 9 is a day to commemorate lost socks. The unofficial holiday also encourages people to let go of all the remaining single socks they are collecting in hopes of finding their partners one day."
+  },
+  {
+    "date": "May 10",
+    "weekday": "Friday",
+    "holiday_name": "Clean Up Your Room Day",
+    "description": "May 10 is Clean Your Room Day - an unofficial holiday that is bound to be any parent's or roommate's favorite holiday and perhaps every child's, teenager's and lazy person's nightmare."
+  },
+  {
+    "date": "May 11",
+    "weekday": "Saturday",
+    "holiday_name": "Twilight Zone Day",
+    "description": "May 11 is Twilight Zone Day, an unofficial holiday that honors and celebrates the Twilight Zone, an iconic and thrilling television show.Nothing Is as It Seems"
+  },
+  {
+    "date": "May 11",
+    "weekday": "Saturday",
+    "holiday_name": "Eat What You Want Day",
+    "description": "Break all, but one of your dietary rules on May 11 or Eat What You Want Day. The only rule you must obey is, of course, eat what you want, however you want it, how much you want it!"
+  },
+  {
+    "date": "May 12",
+    "weekday": "Sunday",
+    "holiday_name": "Limerick Day",
+    "description": "May 12 is Limerick Day. It is an unofficial holiday that encourages people to read and write limericks, a genre of humorous poetry that first originated in England in the 18th century."
+  },
+  {
+    "date": "May 13",
+    "weekday": "Monday",
+    "holiday_name": "Frog Jumping Day",
+    "description": "May 13 is Frog Jumping Day, a fun day to jump like a frog."
+  },
+  {
+    "date": "May 14",
+    "weekday": "Tuesday",
+    "holiday_name": "Dance Like a Chicken Day",
+    "description": "On May 14, is Dance Like a Chicken Day. Also known as Chicken Dance Day, the goofy holiday celebrates the silly dance that is accompanied by the Chicken Song or the Chicken Dance Song."
+  },
+  {
+    "date": "May 15",
+    "weekday": "Wednesday",
+    "holiday_name": "Chocolate Chip Day",
+    "description": "May 15 is Chocolate Chip Day, a day to celebrate the tiny morsels of chocolate that make any dessert even better."
+  },
+  {
+    "date": "May 17",
+    "weekday": "Friday",
+    "holiday_name": "Pizza Party Day",
+    "description": "Mark our words, the third Friday of May will soon become your favorite holiday of the year. Why, you ask? Because it is Pizza Party Day!"
+  },
+  {
+    "date": "May 17",
+    "weekday": "Friday",
+    "holiday_name": "Pack Rat Day",
+    "description": "Pack Rat Day is celebrated every year on May 17. The unofficial holiday encourages people to do some late spring-cleaning and to make space for newer, more useful things in their lives."
+  },
+  {
+    "date": "May 18",
+    "weekday": "Saturday",
+    "holiday_name": "Astronomy Day",
+    "description": "Astronomy Day is celebrated twice a year, once in the spring and once in the fall."
+  },
+  {
+    "date": "May 18",
+    "weekday": "Saturday",
+    "holiday_name": "No Dirty Dishes Day",
+    "description": "May 18 is No Dirty Dishes Day, a day you could celebrate by either not washing any dirty dishes or by washing all the dishes you can!"
+  },
+  {
+    "date": "May 19",
+    "weekday": "Sunday",
+    "holiday_name": "May Ray Day",
+    "description": "On May 19, step out of your offices and homes and soak in the Sun's rays because it is May Ray Day. While the origins of the day are unknown, the day encourages people to enjoy some time under the Sun."
+  },
+  {
+    "date": "May 20",
+    "weekday": "Monday",
+    "holiday_name": "Be a Millionaire Day",
+    "description": "Be A Millionaire Day is on May 20. On this day pretend to be a millionaire or start working on your plans that you think will make you a millionaire."
+  },
+  {
+    "date": "May 21",
+    "weekday": "Tuesday",
+    "holiday_name": "Talk Like Yoda Day",
+    "description": "Talk like Yoda Day it is on May 21. The day honors the popular Star Wars character whose grammar is any language teachers worst nightmare."
+  },
+  {
+    "date": "May 22",
+    "weekday": "Wednesday",
+    "holiday_name": "Buy a Musical Instrument Day",
+    "description": "Fancy yourself a musician? Then, on May 22 take the first step towards fulfilling your dreams and go and buy yourself a musical instrument because it is Buy a Musical Instrument Day."
+  },
+  {
+    "date": "May 24",
+    "weekday": "Friday",
+    "holiday_name": "Scavenger Hunt Day",
+    "description": "May 24 is Scavenger Hunt Day, an annual celebration of the popular party game called scavenger hunt. The unofficial holiday encourages people to get together with friends and family and participate in a scavenger hunt."
+  },
+  {
+    "date": "May 25",
+    "weekday": "Saturday",
+    "holiday_name": "Sing Out Day",
+    "description": "Open up your vocal chords and sing out loud from your heart on Sing Out Day. Celebrated every year on May 25 the unofficial holiday encourages people to sing their hearts out. Loudly."
+  },
+  {
+    "date": "May 25",
+    "weekday": "Saturday",
+    "holiday_name": "Towel Day",
+    "description": "Carry a towel and dont panic on Towel Day. Celebrated annually on May 25, this unofficial holiday celebrates the hugely popular science fiction comedy,The Hitchhiker's Guide to the Galaxy(H2G2) by Douglas Adams."
+  },
+  {
+    "date": "May 26",
+    "weekday": "Sunday",
+    "holiday_name": "World Lindy Hop Day",
+    "description": "Put on your dancing shoes and do the Lindy Hop, because May 26 is World Lindy Hop Day."
+  },
+  {
+    "date": "May 27",
+    "weekday": "Monday",
+    "holiday_name": "Sun Screen Day",
+    "description": "Get ready for the summer (if you live in the Northern Hemisphere) by learning more about sunscreen and its advantages on May 27, Sunscreen Day."
+  },
+  {
+    "date": "May 28",
+    "weekday": "Tuesday",
+    "holiday_name": "Hamburger Day",
+    "description": "Celebrate the humble, but delicious hamburger on May 28, Hamburger Day."
+  },
+  {
+    "date": "May 29",
+    "weekday": "Wednesday",
+    "holiday_name": "Put a Pillow on Your Fridge Day",
+    "description": "On May 29 put a pillow on your fridge to bring good luck and wealth to your home because it is Put a Pillow on Your Fridge Day."
+  },
+  {
+    "date": "May 30",
+    "weekday": "Thursday",
+    "holiday_name": "My Bucket's Got a Hole Day",
+    "description": "May 30 is My Buckets Got A Hole in It Day, a day to carry around a bucket with a hole with you."
+  },
+  {
+    "date": "May 31",
+    "weekday": "Friday",
+    "holiday_name": "Macaroon Day",
+    "description": "May 31 is Macaroon day, a day to celebrate the unleavened cakes or cookies made of egg whites, sugar, and almond paste or coconut."
+  },
+  {
+    "date": "Jun 1",
+    "weekday": "Saturday",
+    "holiday_name": "Say Something Nice Day",
+    "description": "On June 1, be kind to everyone you meet and say something nice to them because it is Say Something Nice Day. The day aims to encourage people to spread cheer and goodwill by opening up channels of communication and by focusing on the good in everyone."
+  },
+  {
+    "date": "Jun 2",
+    "weekday": "Sunday",
+    "holiday_name": "Leave the Office Early Day",
+    "description": "While we all love our jobs (sure, we do), but nothing is more relaxing and fun than leaving work just a bit earlier than one normally does. So on June 2, pack up your things and get out of the office earlier than usual because it is Leave The Office Earlier Day or Leave The Office Early Day."
+  },
+  {
+    "date": "Jun 3",
+    "weekday": "Monday",
+    "holiday_name": "Leave the Office Early Day",
+    "description": "While we all love our jobs (sure, we do), but nothing is more relaxing and fun than leaving work just a bit earlier than one normally does. So on June 2, pack up your things and get out of the office earlier than usual because it is Leave The Office Earlier Day or Leave The Office Early Day."
+  },
+  {
+    "date": "Jun 3",
+    "weekday": "Monday",
+    "holiday_name": "Repeat Day",
+    "description": "June 3 is Repeat Day! June 3 is Repeat Day! June 3 is Repeat Day!"
+  },
+  {
+    "date": "Jun 4",
+    "weekday": "Tuesday",
+    "holiday_name": "Hug Your Cat Day",
+    "description": "June 4 is Hug Your Cat Day. On this unofficial holiday, go give your feline friend a big hug. You never know, the hug might just be the thing to stop them from plotting against you!"
+  },
+  {
+    "date": "Jun 6",
+    "weekday": "Thursday",
+    "holiday_name": "Drive-In Movie Day",
+    "description": "Get the popcorn and soda, pop, or water and drive over to your closest drive-in theater to watch a movie on June 6, because it is Drive-in Movie Day!"
+  },
+  {
+    "date": "Jun 7",
+    "weekday": "Friday",
+    "holiday_name": "VCR Day",
+    "description": "Rewind to the past and celebrate the humble Video Cassette Recorder (VCR) on June 7, VCR Day. This unofficial holiday of unknown origins encourages people to learn more about the technology that completely changed the way people watched television and recorded memories."
+  },
+  {
+    "date": "Jun 7",
+    "weekday": "Friday",
+    "holiday_name": "National Doughnut Day",
+    "description": "The first Friday of June is annually celebrated as National Doughnut or Donut Day in theUnited States. The holiday is a continuation of Doughnut Day when members of the Salvation Army provided doughnuts and coffee to service members during the First World War."
+  },
+  {
+    "date": "Jun 8",
+    "weekday": "Saturday",
+    "holiday_name": "Best Friends Day",
+    "description": "June 8 is Best Friends Day, a day to celebrate your best friend and let them know how important they are to you."
+  },
+  {
+    "date": "Jun 9",
+    "weekday": "Sunday",
+    "holiday_name": "Donald Duck Day",
+    "description": "Celebrate everyones favorite cartoon character, Donald Duck on June 9, Donald Duck Day."
+  },
+  {
+    "date": "Jun 10",
+    "weekday": "Monday",
+    "holiday_name": "Iced Tea Day",
+    "description": "June 10 is Iced Tea Day. Say hello to the summer and celebrate this delicious and refreshing holiday by treating yourself to a big glass of iced tea."
+  },
+  {
+    "date": "Jun 11",
+    "weekday": "Tuesday",
+    "holiday_name": "Corn on the Cob Day",
+    "description": "Summer is finally here, and what better way to celebrate it than with some delicious corn on the cob? Celebrate this popular summer side dish on Corn on the Cob Day, celebrated annually on June 11."
+  },
+  {
+    "date": "Jun 12",
+    "weekday": "Wednesday",
+    "holiday_name": "Red Rose Day",
+    "description": "June 12 is Red Rose Day. It is an annual celebration of the universal symbol of love and romance - the humble, but beautiful red rose."
+  },
+  {
+    "date": "Jun 13",
+    "weekday": "Thursday",
+    "holiday_name": "Sewing Machine Day",
+    "description": "They say a stitch in time saves nine. So, on June 13, Sewing Machine Day, dust off your sewing machine and sew away!"
+  },
+  {
+    "date": "Jun 14",
+    "weekday": "Friday",
+    "holiday_name": "Bourbon Day",
+    "description": "June 14 is Bourbon Day. So, set aside some time in the day to enjoy a glass of the uniquely American distilled liquor."
+  },
+  {
+    "date": "Jun 15",
+    "weekday": "Saturday",
+    "holiday_name": "World Juggling Day",
+    "description": "World Juggling Day is held annually on a Saturday closest to June 17 to commemorate the anniversary of the foundation of the International Jugglers Association (IJA) in 1975."
+  },
+  {
+    "date": "Jun 15",
+    "weekday": "Saturday",
+    "holiday_name": "Nature Photography Day",
+    "description": "June 15 is Nature Photography Day. The North American Nature Photography Association (NANPA) created the day in 2006 as a way to encourage people to learn and enjoy capturing the beauty of nature through their cameras."
+  },
+  {
+    "date": "Jun 16",
+    "weekday": "Sunday",
+    "holiday_name": "Bloomsday",
+    "description": "Celebrated annually on June 16, Bloomsday celebrates the life and times of Irish author James Joyce."
+  },
+  {
+    "date": "Jun 17",
+    "weekday": "Monday",
+    "holiday_name": "Eat Your Vegetables Day",
+    "description": "Whether you love your veggies or cant stand them, you should celebrate Eat Your Vegetables Day on June 17. Why, you ask? Because the doctor says so, and because vegetables are delicious!"
+  },
+  {
+    "date": "Jun 18",
+    "weekday": "Tuesday",
+    "holiday_name": "International Picnic Day",
+    "description": "International Picnic Day is a made-up holiday that is celebrated annually on June 18. So, pack your picnic basket, hop into the car, or walk to a park or a picnic area and enjoy an outdoors meal by yourself or with your family and friends to celebrate this unofficial holiday."
+  },
+  {
+    "date": "Jun 18",
+    "weekday": "Tuesday",
+    "holiday_name": "International Panic Day",
+    "description": "June 18 is International Panic Day. Use it as an excuse to panic about everything under the Sun, or take the day to evaluate your priorities and eliminate anything that causes you stress and anxiety."
+  },
+  {
+    "date": "Jun 19",
+    "weekday": "Wednesday",
+    "holiday_name": "Sauntering Day",
+    "description": "June 19 is Sauntering Day, an annual holiday that reminds people to pause, take a stock of their busy schedules, and slow down for a bit. And because the day has the word sauntering in it, it also encourages everyone to take a leisurely walk."
+  },
+  {
+    "date": "Jun 21",
+    "weekday": "Friday",
+    "holiday_name": "Take Your Dog to Work Day",
+    "description": "Studies have shown that bringing pets to work can increase productivity. So, on a Friday in June, take your dog to work to celebrate Take Your Dog to Work Day."
+  },
+  {
+    "date": "Jun 21",
+    "weekday": "Friday",
+    "holiday_name": "Daylight Appreciation Day",
+    "description": "On June 21, wear your flip-flops, put on your sunglasses, and step outdoors to enjoy some Sun, because it is Daylight Appreciation Day. The holiday was created by Solatube International as a way to raise awareness about the advantages of daylighting."
+  },
+  {
+    "date": "Jun 22",
+    "weekday": "Saturday",
+    "holiday_name": "Onion Ring Day",
+    "description": "Celebrate the delicious deep fried snack on June 22, Onion Ring Day."
+  },
+  {
+    "date": "Jun 23",
+    "weekday": "Sunday",
+    "holiday_name": "Typewriter Day",
+    "description": "June 23, the anniversary of the granting of a patent to American inventor Christopher Latham Sholes in 1868 is celebrated around the world as Typewriter Day. So, take out your old typewriter from the attic, dust it and get started on your magnum opus!"
+  },
+  {
+    "date": "Jun 24",
+    "weekday": "Monday",
+    "holiday_name": "Swim a Lap Day",
+    "description": "Dive into a pool and swim a lap or two for your health on June 24 or Swim a Lap Day. The unofficial holiday celebrates the ancient sport of swimming and encourages people to engage in it for the purpose of exercise."
+  },
+  {
+    "date": "Jun 25",
+    "weekday": "Tuesday",
+    "holiday_name": "Please Take my Children to Work Day",
+    "description": "Please Take my Children to Work Day first began as a tongue-in-cheek holiday for overworked and tired stay-at-home mothers to take a day off from their routines. The holiday is celebrated annually on June 25."
+  },
+  {
+    "date": "Jun 26",
+    "weekday": "Wednesday",
+    "holiday_name": "Chocolate Pudding Day",
+    "description": "June 26 is Chocolate Pudding Day. This unofficial holiday celebrates everyone's favorite lunch dessert snack - the chocolate pudding."
+  },
+  {
+    "date": "Jun 27",
+    "weekday": "Thursday",
+    "holiday_name": "Helen Keller Day",
+    "description": "Celebrate human resilience and achievement on Helen Keller Day. Celebrated annually on June 27, the day commemorates the life and achievements of Helen Keller, American activist, author, and suffragist."
+  },
+  {
+    "date": "Jun 28",
+    "weekday": "Friday",
+    "holiday_name": "Tau Day",
+    "description": "Tau Day, an anti-Pi Day holiday, is an unofficial observance held every year since 2010 on June 28, or 06/28 as written in the American date format."
+  },
+  {
+    "date": "Jun 29",
+    "weekday": "Saturday",
+    "holiday_name": "Camera Day",
+    "description": "June 29 is Camera Day, a day to celebrate the gadget that lets you record all your memories."
+  },
+  {
+    "date": "Jun 30",
+    "weekday": "Sunday",
+    "holiday_name": "Meteor Watch Day",
+    "description": "June 30 is Meteor Watch Day, a day to look up at the skies and behold the wonder of nature's celestial fireworks,meteors."
+  },
+  {
+    "date": "Jul 1",
+    "weekday": "Monday",
+    "holiday_name": "International Joke Day",
+    "description": "Not only does July 1 mark the middle of the year in theGregorian Calendar, it is also International Joke Day. The unofficial holiday encourages participants to share their funniest and sidesplitting jokes with the world."
+  },
+  {
+    "date": "Jul 2",
+    "weekday": "Tuesday",
+    "holiday_name": "I Forgot Day",
+    "description": "July 2 is I Forgot Day. If you are you a forgetful person who frequently forgets anniversaries, birthdays, special occasions, or even to bring the milk from the store on your way back home, then this is the unofficial holiday you should be celebrating."
+  },
+  {
+    "date": "Jul 2",
+    "weekday": "Tuesday",
+    "holiday_name": "World UFO Day",
+    "description": "On July 2, World UFO Day, bring out your telescopes, gaze up the skies and look out for Unidentified Flying Objects (UFOs)."
+  },
+  {
+    "date": "Jul 3",
+    "weekday": "Wednesday",
+    "holiday_name": "Compliment Your Mirror Day",
+    "description": "July 3 is Compliment Your Mirror Day, a day to encourage self-acceptance and to acknowledge that you are beautiful, smart, and strong."
+  },
+  {
+    "date": "Jul 3",
+    "weekday": "Wednesday",
+    "holiday_name": "International Plastic Bag Free Day",
+    "description": "On July 3, when you go to the grocery store take a cloth or paper bag with you because it is International Plastic Bag Free Day."
+  },
+  {
+    "date": "Jul 4",
+    "weekday": "Thursday",
+    "holiday_name": "Sidewalk Egg Frying Day",
+    "description": "July 4 is Sidewalk Egg Frying Day, an annual celebration of summer."
+  },
+  {
+    "date": "Jul 5",
+    "weekday": "Friday",
+    "holiday_name": "Workaholics Day",
+    "description": "July 5 is Workaholics Day, a day dedicated to people who spend all their time working and tend to ignore other pursuits in life."
+  },
+  {
+    "date": "Jul 6",
+    "weekday": "Saturday",
+    "holiday_name": "World Kissing Day",
+    "description": "On July 6, pucker up and lock lips with your sweetie because it is World Kissing Day."
+  },
+  {
+    "date": "Jul 7",
+    "weekday": "Sunday",
+    "holiday_name": "Tell the Truth Day",
+    "description": "July 7 is Tell the Truth Day, a day dedicated to honesty and the rejection of manipulation and lying."
+  },
+  {
+    "date": "Jul 8",
+    "weekday": "Monday",
+    "holiday_name": "Video Games Day",
+    "description": "On July 8 celebrate video games on Video Games Day. It is a day to acknowledge the art and science behind video games and to appreciate the skills required to play them."
+  },
+  {
+    "date": "Jul 8",
+    "weekday": "Monday",
+    "holiday_name": "Math 2.0 Day",
+    "description": "July 8 is Math 2.0 Day. It is a day to remind ourselves that math, or maths if you follow British English, is not just the boring subject you hated during school and college. The world runs on numbers and mathematics."
+  },
+  {
+    "date": "Jul 9",
+    "weekday": "Tuesday",
+    "holiday_name": "Sugar Cookie Day",
+    "description": "On July 9, whip up a batch of warm, delicious, and sugary sugar cookies because it is Sugar Cookie Day."
+  },
+  {
+    "date": "Jul 10",
+    "weekday": "Wednesday",
+    "holiday_name": "Teddy Bears' Picnic Day",
+    "description": "If you have kids in your life, take them out with theirteddy bearsfor a picnic on July 10, Teddy Bears Picnic Day."
+  },
+  {
+    "date": "Jul 10",
+    "weekday": "Wednesday",
+    "holiday_name": "Clerihew Day",
+    "description": "On July 10 celebrate the Clerihew, a form of poetry that was invented by English author Edmund Clerihew Bentley."
+  },
+  {
+    "date": "Jul 11",
+    "weekday": "Thursday",
+    "holiday_name": "Cheer Up the Lonely Day",
+    "description": "Make someone smile on Cheer up the Lonely Day. Annually celebrated on July 11, the unofficial holiday aims to encourage people to give some of their time to make people who are lonely smile."
+  },
+  {
+    "date": "Jul 12",
+    "weekday": "Friday",
+    "holiday_name": "Simplicity Day",
+    "description": "Simplicity Day is celebrated every year on July 12. The unofficial holiday commemorates the life, times and work of American philosopher and proponent of simple living, Henry David Thoreau."
+  },
+  {
+    "date": "Jul 13",
+    "weekday": "Saturday",
+    "holiday_name": "Embrace Your Geekness Day",
+    "description": "On July 13 embrace your geekness and use it as your secret power because it is Embrace Your Geekness Day."
+  },
+  {
+    "date": "Jul 14",
+    "weekday": "Sunday",
+    "holiday_name": "Pandemonium Day",
+    "description": "July 14 is Pandemonium Day, an annual celebration of chaos and disorder. Pandemonium Day is a reminder of the chaos and uncertainty that marks most of our lives."
+  },
+  {
+    "date": "Jul 15",
+    "weekday": "Monday",
+    "holiday_name": "Gummi Worm Day",
+    "description": "Held annually on July 15, Gummi Worm Day celebrates and honors these chewy and yummy creepy crawly sweet treats."
+  },
+  {
+    "date": "Jul 16",
+    "weekday": "Tuesday",
+    "holiday_name": "Corn Fritters Day",
+    "description": "July 16 is Corn Fritters Day. So, take out your best cooking pan, mix a batch of flour, sweet corn, eggs, and milk and whip up a batch of delicious and comforting corn fritters."
+  },
+  {
+    "date": "Jul 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Yellow Pig Day",
+    "description": "July 17 is Yellow Pig Day. Despite its name, the day is not a celebration of the porcine world, but a celebration of the number 17."
+  },
+  {
+    "date": "Jul 17",
+    "weekday": "Wednesday",
+    "holiday_name": "Emoji Day",
+    "description": "World Emoji Day on July 17 is an unofficial holiday that pays homage to emojis."
+  },
+  {
+    "date": "Jul 18",
+    "weekday": "Thursday",
+    "holiday_name": "Insurance Nerd Day",
+    "description": "Insurance Nerd Day on July 18 celebrates the insurance industry and helps raise awareness about the importance of insurance in our daily lives."
+  },
+  {
+    "date": "Jul 18",
+    "weekday": "Thursday",
+    "holiday_name": "Caviar Day",
+    "description": "On July 18, take out your best vodka and pair it with some top-of-the-shelf caviar because it is Caviar Day. The unofficial holiday of unknown origins encourages people to try out the delicacy while promoting environmentally friendly and humane fishing practices."
+  },
+  {
+    "date": "Jul 19",
+    "weekday": "Friday",
+    "holiday_name": "Stick Out Your Tongue Day",
+    "description": "July 19 is Stick Out Your Tongue Day."
+  },
+  {
+    "date": "Jul 20",
+    "weekday": "Saturday",
+    "holiday_name": "Space Exploration Day",
+    "description": "On July 20, look up at the sky and think back on all the advances humankind has made in exploring and understanding space because it is Space Exploration Day."
+  },
+  {
+    "date": "Jul 21",
+    "weekday": "Sunday",
+    "holiday_name": "Ice Cream Day",
+    "description": "Cool down with a scoop (or two) of refreshing ice cream on Ice Cream Day. Celebrated annually since 1984 on the third Sunday of July in theUnited States, the unofficial holiday celebrates everyones favorite sweet treat."
+  },
+  {
+    "date": "Jul 21",
+    "weekday": "Sunday",
+    "holiday_name": "Junk Food Day",
+    "description": "On July 21, let go of your diet and indulge in all your favorite unhealthy snacks without any guilt because it is Junk Food Day."
+  },
+  {
+    "date": "Jul 22",
+    "weekday": "Monday",
+    "holiday_name": "Pi Approximation Day",
+    "description": "July 22 is Pi Approximation Day. Also known as Casual Pi Day, the day is dedicated to the mathematical constant pi (\u03c0)."
+  },
+  {
+    "date": "Jul 23",
+    "weekday": "Tuesday",
+    "holiday_name": "Vanilla Ice Cream Day",
+    "description": "July 23 is Vanilla Ice Cream Day. Celebrate this unofficial holiday of unknown origins by eating as much vanilla ice cream as you want without any guilt."
+  },
+  {
+    "date": "Jul 24",
+    "weekday": "Wednesday",
+    "holiday_name": "Cousins Day",
+    "description": "Cousins are fun to be with they are almost like your siblings but you dont have to share all your prized possessions with them all the time. Celebrate them on Cousins Day, an annual celebration of the special bond you share with your cousins."
+  },
+  {
+    "date": "Jul 25",
+    "weekday": "Thursday",
+    "holiday_name": "Culinarians Day",
+    "description": "July 25 is Culinarians Day, an unofficial holiday that honors all cooks and chefs who bring good taste and great food in people's lives."
+  },
+  {
+    "date": "Jul 26",
+    "weekday": "Friday",
+    "holiday_name": "Uncle and Aunt Day",
+    "description": "Honor all the awesome uncles and aunts in your life on Uncle and Aunt Day. The unofficial holiday is celebrated every year on July 26."
+  },
+  {
+    "date": "Jul 27",
+    "weekday": "Saturday",
+    "holiday_name": "Take your Pants for a Walk Day",
+    "description": "July 27 is Take Your Pants For A Walk Day. Because the purpose or the origins of the day are unknown, we can only surmise that the unofficial holiday encourages people (in pants) to go out for a walk and enjoy the many benefits that walking provides."
+  },
+  {
+    "date": "Jul 28",
+    "weekday": "Sunday",
+    "holiday_name": "Milk Chocolate Day",
+    "description": "July 28 is Milk Chocolate Day, everyone's favorite type of chocolate."
+  },
+  {
+    "date": "Jul 29",
+    "weekday": "Monday",
+    "holiday_name": "Lasagna Day",
+    "description": "Who doesnt love lasagna the versatile and delicious dish made of layers of pasta or noodles, sauce, vegetables, and meat? Celebrate it on July 29, Lasagna Day."
+  },
+  {
+    "date": "Jul 30",
+    "weekday": "Tuesday",
+    "holiday_name": "National Cheesecake Day",
+    "description": "July 30 is National Cheesecake Day, a day to treat yourself with a slice (or two) of this decadent dessert made of cream cheese, eggs, sugar, and a graham cracker crust."
+  },
+  {
+    "date": "Jul 31",
+    "weekday": "Wednesday",
+    "holiday_name": "Uncommon Musical Instrument Day",
+    "description": "July 31 is Uncommon Musical Instrument Awareness Day, a day to celebrate odd, rare, experimental, and well, uncommon musical instruments."
+  },
+  {
+    "date": "Aug 1",
+    "weekday": "Thursday",
+    "holiday_name": "National Girlfriend Day",
+    "description": "August 1 is Girlfriends Day. It is unclear whether the unknown creators of this holiday wanted it to be a day for people to honor their female friends or for them to celebrate their female romantic partners."
+  },
+  {
+    "date": "Aug 2",
+    "weekday": "Friday",
+    "holiday_name": "Ice Cream Sandwich Day",
+    "description": "What is better than a scoop of ice cream on a hot (or cold or rainy or snowy) day? A scoop of ice cream sandwiched between two layers of cookies or cake. In other words, an ice cream sandwich!"
+  },
+  {
+    "date": "Aug 2",
+    "weekday": "Friday",
+    "holiday_name": "International Beer Day",
+    "description": "The first Friday of August every year is International Beer Day. The unofficial holiday celebrates the art and science of brewing beer and encourages people to try out new flavors of beers."
+  },
+  {
+    "date": "Aug 3",
+    "weekday": "Saturday",
+    "holiday_name": "Watermelon Day",
+    "description": "August 3 is Watermelon Day, an annual holiday that celebrates everyone's favorite summer fruit."
+  },
+  {
+    "date": "Aug 4",
+    "weekday": "Sunday",
+    "holiday_name": "Sisters' Day",
+    "description": "The first Sunday of August every year is celebrated around the world as Sisters Day."
+  },
+  {
+    "date": "Aug 4",
+    "weekday": "Sunday",
+    "holiday_name": "Single Working Women's Day",
+    "description": "August 4 is Single Working Women's Day, a day reserved to recognize the important role that single working women play in our communities and societies."
+  },
+  {
+    "date": "Aug 5",
+    "weekday": "Monday",
+    "holiday_name": "Work Like a Dog Day",
+    "description": "August 5 is Work Like a Dog Day, a day to work hard and to reward people who work day and night and are very productive."
+  },
+  {
+    "date": "Aug 6",
+    "weekday": "Tuesday",
+    "holiday_name": "Fresh Breath Day",
+    "description": "August 6 is Fresh Breath Day; a holiday we think should be celebrated every day of the year."
+  },
+  {
+    "date": "Aug 7",
+    "weekday": "Wednesday",
+    "holiday_name": "Lighthouse Day",
+    "description": "August 7 is celebrated as Lighthouse Day in theUnited Statesas a way to commemorate the signing of the Act for the Establishment and support of Lighthouse, Beacons, Buoys, and Public Piers by the U.S. Congress in 1789."
+  },
+  {
+    "date": "Aug 8",
+    "weekday": "Thursday",
+    "holiday_name": "Happiness Happens Day",
+    "description": "August 8 is Happiness Happens Day, a day to celebrate all things happy."
+  },
+  {
+    "date": "Aug 9",
+    "weekday": "Friday",
+    "holiday_name": "Book Lovers Day",
+    "description": "August 9 is Book Lovers Day, an unofficial holiday that encourages people to pick up a book (or two) and spend the day reading."
+  },
+  {
+    "date": "Aug 10",
+    "weekday": "Saturday",
+    "holiday_name": "Lazy Day",
+    "description": "August 10 is Lazy Day. Celebrate your inner couch potato by giving up all your daily chores and doing nothing the whole day long!"
+  },
+  {
+    "date": "Aug 11",
+    "weekday": "Sunday",
+    "holiday_name": "Son and Daughter Day",
+    "description": "August 11 is Son and Daughter Day, a day for parents to show their love and appreciation for their children."
+  },
+  {
+    "date": "Aug 12",
+    "weekday": "Monday",
+    "holiday_name": "Middle Child Day",
+    "description": "August 12 is Middle Child Day, a day to recognize middle born children and to acknowledge their place in their families."
+  },
+  {
+    "date": "Aug 13",
+    "weekday": "Tuesday",
+    "holiday_name": "Left-Handers Day",
+    "description": "August 13 is Left-Handers Day. Created in 1992 by the Left-Handers Club as a way to celebrate left-handers, the unofficial holiday aims to raise awareness of the advantages and disadvantages left-handers face."
+  },
+  {
+    "date": "Aug 14",
+    "weekday": "Wednesday",
+    "holiday_name": "Creamsicle Day",
+    "description": "Sweltering in the summer heat? Need something to refreshing to cool down? Then just walk to your closest ice cream shop and treat yourself to a cold and delicious creamsicle (or two) because it is Creamsicle Day!"
+  },
+  {
+    "date": "Aug 15",
+    "weekday": "Thursday",
+    "holiday_name": "Relaxation Day",
+    "description": "On August 15, take a day off from your daily routine, put your feet up and relax because it is Relaxation Day."
+  },
+  {
+    "date": "Aug 16",
+    "weekday": "Friday",
+    "holiday_name": "Tell a Joke Day",
+    "description": "On August 16, make everyone around you giggle, guffaw, chortle, cackle or in other words, laugh, by telling them a joke because it is Tell A Joke Day."
+  },
+  {
+    "date": "Aug 17",
+    "weekday": "Saturday",
+    "holiday_name": "Thrift Shop Day",
+    "description": "August 17 is Thrift Shop Day. It is a perfect holiday for those of you who like a good bargain and are a fan of old, vintage items."
+  },
+  {
+    "date": "Aug 18",
+    "weekday": "Sunday",
+    "holiday_name": "Mail Order Catalog Day",
+    "description": "August 18 is Mail Order Catalog Day, an annual holiday that celebrates the old-fashioned way of shopping by choosing items from a printed catalog, and ordering and paying for it through the post/ mail or over the telephone."
+  },
+  {
+    "date": "Aug 19",
+    "weekday": "Monday",
+    "holiday_name": "World Photo Day",
+    "description": "August 19 is World Photo Day. The unofficial holiday, which is also sometimes known as Photo Day or World Photography Day, is an annual celebration of the art and science of photography."
+  },
+  {
+    "date": "Aug 20",
+    "weekday": "Tuesday",
+    "holiday_name": "Chocolate Pecan Pie Day",
+    "description": "Don't wait till the holiday season to treat yourself and your loved ones to the dessert that many believe is southernUnited Stateson a plate - chocolate pecan pie. Enjoy a slice or two of this decadent dessert on August 20, or Chocolate Pecan Pie Day."
+  },
+  {
+    "date": "Aug 21",
+    "weekday": "Wednesday",
+    "holiday_name": "Spumoni Day",
+    "description": "August 21 is Spumoni Day, so treat yourself to a slice (or two) of the delicious layered Italian ice cream dessert."
+  },
+  {
+    "date": "Aug 22",
+    "weekday": "Thursday",
+    "holiday_name": "Be An Angel Day",
+    "description": "August 22 is Be An Angel Day. Established in 1993 by Jaune Howard Feldman, the day encourages people to be angels to those in need."
+  },
+  {
+    "date": "Aug 23",
+    "weekday": "Friday",
+    "holiday_name": "Ride Like the Wind Day",
+    "description": "August 23 is Ride Like the Wind Day, a day to well, ride like the wind if you can. The day also commemorates the first time the Kremer Prize was awarded in 1977. The prize is awarded to people who pioneer human powered flight."
+  },
+  {
+    "date": "Aug 24",
+    "weekday": "Saturday",
+    "holiday_name": "Pluto Demoted Day",
+    "description": "Pluto Demoted Day on August 24 commemorates the day in 2006 when Pluto's status was downgraded from a full sized planet to a dwarf planet by the International Astronomical Union (IAU)."
+  },
+  {
+    "date": "Aug 25",
+    "weekday": "Sunday",
+    "holiday_name": "Kiss and Make up Day",
+    "description": "August 25 is Kiss and Make Up Day, a day to let go of resentment, grudges, anger, and indignation. The unofficial holiday encourages people to make up and reconcile with anyone they are estranged with - at work, school, or in their family."
+  },
+  {
+    "date": "Aug 26",
+    "weekday": "Monday",
+    "holiday_name": "Dog Appreciation Day",
+    "description": "August 26 is Dog Day or Dog Appreciation Day, a day to appreciate your best friend on four legs."
+  },
+  {
+    "date": "Aug 27",
+    "weekday": "Tuesday",
+    "holiday_name": "The Duchess Who Wasn't Day",
+    "description": "The Duchess Who Wasnt Day on August 27 celebrates the life, times and works of Irish author Margaret Wolfe Hungerford."
+  },
+  {
+    "date": "Aug 28",
+    "weekday": "Wednesday",
+    "holiday_name": "Bow Tie Day",
+    "description": "August 28 is Bow Tie Day, an annual holiday that celebrates the elegant fashion accessory usually worn by men at formal occasions."
+  },
+  {
+    "date": "Aug 29",
+    "weekday": "Thursday",
+    "holiday_name": "According to Hoyle Day",
+    "description": "On August 29, honor expertise, authority, and the rules because it is According to Hoyle Day. Named after the English language phrase,according to Hoyle, the unofficial holiday celebrates the life and times of Englishman Edmond Hoyle, who died on this day in 1769."
+  },
+  {
+    "date": "Aug 30",
+    "weekday": "Friday",
+    "holiday_name": "Frankenstein Day",
+    "description": "August 30 is Frankenstein Day. The unofficial holiday celebrates the life and times of English author Mary Shelley who wrote one of the words most read monster novel,Frankenstein, or The Modern Prometheus."
+  },
+  {
+    "date": "Aug 31",
+    "weekday": "Saturday",
+    "holiday_name": "Eat Outside Day",
+    "description": "August 31 is Eat Outside Day. So, pack up a lunch, head on over to the park and commune with nature while you eat your meal under the Sun."
+  },
+  {
+    "date": "Sep 1",
+    "weekday": "Sunday",
+    "holiday_name": "Emma Nutt Day",
+    "description": "Emma Nutt Day on September 1 celebrates the worlds first female telephone operator, Emma M Nutt."
+  },
+  {
+    "date": "Sep 1",
+    "weekday": "Sunday",
+    "holiday_name": "No Rhyme or Reason Day",
+    "description": "September 1 is No Rhyme or Reason Day. The unofficial holiday is dedicated to the English language idiom,no rhyme or reason, which means something that occurs without any purpose or explanation."
+  },
+  {
+    "date": "Sep 2",
+    "weekday": "Monday",
+    "holiday_name": "Bison Ten Yell Day",
+    "description": "On September 2 celebrate the 200th anniversary of any imaginary character of your choosing because it is Bison-Ten-Yell Day."
+  },
+  {
+    "date": "Sep 3",
+    "weekday": "Tuesday",
+    "holiday_name": "Skyscraper Day",
+    "description": "Skyscraper Day is held annually on September 3. Celebrate this unofficial holiday by climbing or taking the elevator/lift up a skyscraper and by acknowledging the architectural and engineering feats that make such buildings possible."
+  },
+  {
+    "date": "Sep 4",
+    "weekday": "Wednesday",
+    "holiday_name": "Eat an Extra Dessert Day",
+    "description": "September 4 is Eat an Extra Dessert Day, a day that encourages people to treat their sweet tooth with a second (or well, even a third) helping of dessert."
+  },
+  {
+    "date": "Sep 5",
+    "weekday": "Thursday",
+    "holiday_name": "Be Late for Something Day",
+    "description": "We would normally not encourage you to do this on any other day, but Be Late For Something Day on September 5 is the perfect excuse for you to be late."
+  },
+  {
+    "date": "Sep 5",
+    "weekday": "Thursday",
+    "holiday_name": "Cheese Pizza Day",
+    "description": "September 5 is Cheese Pizza Day, a day to indulge in a slice (or two) of the classic and simple cheese pizza."
+  },
+  {
+    "date": "Sep 6",
+    "weekday": "Friday",
+    "holiday_name": "Fight Procrastination Day",
+    "description": "September 6 is Fight Procrastination Day. It is an unofficial holiday that encourages people to take charge of their procrastination problem and to find ways to combat the never-ending urge to put off important tasks for another day."
+  },
+  {
+    "date": "Sep 6",
+    "weekday": "Friday",
+    "holiday_name": "Read a Book Day",
+    "description": "On September 6, pour yourself a cup of tea, find a cozy spot and curl up with a good book because it is Read A Book Day!"
+  },
+  {
+    "date": "Sep 7",
+    "weekday": "Saturday",
+    "holiday_name": "Salami Day",
+    "description": "September 7 is Salami Day, a annual holiday that honors the delicious and spicy cured Italian sausage that is a perfect wine and cheese accompaniment."
+  },
+  {
+    "date": "Sep 8",
+    "weekday": "Sunday",
+    "holiday_name": "Pardon Day",
+    "description": "September 8 is Pardon Day, a day to seek and give forgiveness. On Pardon Day put aside all your grudges, be kind to everyone and forgive those who may have hurt you."
+  },
+  {
+    "date": "Sep 8",
+    "weekday": "Sunday",
+    "holiday_name": "Hug Your Hound Day",
+    "description": "On September 14, give your four-legged best friend a big hug because it is Hug Your Hound Day."
+  },
+  {
+    "date": "Sep 9",
+    "weekday": "Monday",
+    "holiday_name": "Teddy Bear Day",
+    "description": "September 9 is Teddy Bear Day, a day to bring out all your teddy bears and thank them for their company, the fun times you have had with them, and for all the days and nights they comforted you."
+  },
+  {
+    "date": "Sep 10",
+    "weekday": "Tuesday",
+    "holiday_name": "Swap Ideas Day",
+    "description": "September 10 is Swap Ideas Day. It is a day to share thoughts, barter goods, exchange ideas, trade opinions and discuss viewpoints with family members, friends, co-workers and strangers."
+  },
+  {
+    "date": "Sep 11",
+    "weekday": "Wednesday",
+    "holiday_name": "Make Your Bed Day",
+    "description": "When you wake up on September 11, make a point to make your bed because it is Make Your Bed Day!"
+  },
+  {
+    "date": "Sep 12",
+    "weekday": "Thursday",
+    "holiday_name": "Chocolate Milkshake Day",
+    "description": "September 12 is Chocolate Milkshake Day. So, what are you waiting for? Take out that blender and make yourself a glass of yummy chocolate milkshake."
+  },
+  {
+    "date": "Sep 13",
+    "weekday": "Friday",
+    "holiday_name": "Positive Thinking Day",
+    "description": "Is life getting you down? Are you on your way to getting a Ph.D. in complaining? If your answer is a yes, then Positive Thinking Day (PTD) on September 13 is just the holiday you need to celebrate."
+  },
+  {
+    "date": "Sep 13",
+    "weekday": "Friday",
+    "holiday_name": "Roald Dahl Day",
+    "description": "September 13 is Roald Dahl Day, a holiday dedicated to one of the worlds greatest storytellers."
+  },
+  {
+    "date": "Sep 15",
+    "weekday": "Sunday",
+    "holiday_name": "Make a Hat Day",
+    "description": "On September 15, don your creative hat, gather your craft supplies, channel the secret milliner in your soul and make yourself a hat because it is Make a Hat Day."
+  },
+  {
+    "date": "Sep 16",
+    "weekday": "Monday",
+    "holiday_name": "Collect Rocks Day",
+    "description": "On September 16 take a walk to the park, the beach, or to the jewelers, and collect some pretty looking rocks. Why, you ask? Because it is Collect Rocks Day."
+  },
+  {
+    "date": "Sep 16",
+    "weekday": "Monday",
+    "holiday_name": "Guacamole Day",
+    "description": "September 16 is Guacamole Day. The unofficial holiday celebrates the delicious Mexican side-dish or dip made of avocados."
+  },
+  {
+    "date": "Sep 17",
+    "weekday": "Tuesday",
+    "holiday_name": "International Country Music Day",
+    "description": "Celebrate all things country on September 17 or International Country Music Day. The unofficial holiday was created in 2003 as a way to bring together musicians and fans of the popular music genre, and to increase the number of country music aficionados around the world."
+  },
+  {
+    "date": "Sep 18",
+    "weekday": "Wednesday",
+    "holiday_name": "Rice Krispie Treat Day",
+    "description": "September 18 is Rice Krispie Treat Day, an unofficial holiday dedicated to the no-bake, quick to make yummy gooey sweet treat."
+  },
+  {
+    "date": "Sep 19",
+    "weekday": "Thursday",
+    "holiday_name": "National Gymnastics Day",
+    "description": "September 19 is National Gymnastics Day, an unofficial celebration of the graceful sport that tests everything from physical strength to agility to balance and coordination."
+  },
+  {
+    "date": "Sep 19",
+    "weekday": "Thursday",
+    "holiday_name": "International Talk Like a Pirate Day",
+    "description": "International Talk Like A Pirate Day is a parody holiday annually held on September 19. Celebrated for the first time in 1995, the fun holiday encourages people to talk and dress like the sea plunderers of yesteryears."
+  },
+  {
+    "date": "Sep 20",
+    "weekday": "Friday",
+    "holiday_name": "Punch Day",
+    "description": "September 20 is Punch Day. Celebrate this unofficial holiday of unknown origins by drinking a tall glass of this delicious party beverage."
+  },
+  {
+    "date": "Sep 21",
+    "weekday": "Saturday",
+    "holiday_name": "National CleanUp Day",
+    "description": "The third Saturday in September is National CleanUp Day in the United States."
+  },
+  {
+    "date": "Sep 21",
+    "weekday": "Saturday",
+    "holiday_name": "Miniature Golf Day",
+    "description": "On September 21 head on over to your local miniature golf course with your family and friends for a day of fun and adventure, because it is Miniature Golf Day!"
+  },
+  {
+    "date": "Sep 22",
+    "weekday": "Sunday",
+    "holiday_name": "Hobbit Day",
+    "description": "Fans of JRR Tolkiens Lord of the Rings (LOTR) and the Hobbit epic celebrate September 22 as Hobbit Day. The week containing Hobbit Day is also celebrated as Tolkien Week."
+  },
+  {
+    "date": "Sep 23",
+    "weekday": "Monday",
+    "holiday_name": "Checkers Day",
+    "description": "September 23 is Checkers Day. The unofficial holiday is not about the board game but has a political origin. The holiday commemorates a speech given by American President Richard Nixon on this day in 1952 as a Vice Presidential candidate."
+  },
+  {
+    "date": "Sep 24",
+    "weekday": "Tuesday",
+    "holiday_name": "Punctuation Day",
+    "description": "Do you find yourself correcting punctuation while reading a restaurant menu? Do you see red anytime you see an incorrect usage of the apostrophe? Then, Punctuation Day on September 24 is your kind of holiday."
+  },
+  {
+    "date": "Sep 25",
+    "weekday": "Wednesday",
+    "holiday_name": "Comic Book Day",
+    "description": "September 25 is Comic Book Day. The holiday celebrates the art and science behind comic books and encourages people to read and share comic books."
+  },
+  {
+    "date": "Sep 26",
+    "weekday": "Thursday",
+    "holiday_name": "Love Note Day",
+    "description": "September 26 is Love Note Day, an unofficial holiday that encourages you to write and send notes full of love to the special person in your life."
+  },
+  {
+    "date": "Sep 27",
+    "weekday": "Friday",
+    "holiday_name": "Crush a Can Day",
+    "description": "Take out all your frustrations and anger and be green and environmentally friendly at the same time by crushing a can to celebrate Crush A Can Day on September 27."
+  },
+  {
+    "date": "Sep 28",
+    "weekday": "Saturday",
+    "holiday_name": "Ask a Stupid Question Day",
+    "description": "September 28 is Ask a Stupid Question Day, a day that is devoted to all stupid and silly questions out there."
+  },
+  {
+    "date": "Sep 28",
+    "weekday": "Saturday",
+    "holiday_name": "Good Neighbor Day",
+    "description": "Neighbors are an integral part of our social lives whether at home or at work. Good Neighbor Day on September 28 is an annual holiday that promotes neighborliness and niceness towards people who surround us."
+  },
+  {
+    "date": "Sep 30",
+    "weekday": "Monday",
+    "holiday_name": "Hot Mulled Cider Day",
+    "description": "If you are in the Northern Hemisphere chances are that by the time the end of September rolls by, the days are getting shorter and colder. Warm the days up by drinking Hot Mulled Cider on September 30."
+  },
+  {
+    "date": "Oct 1",
+    "weekday": "Tuesday",
+    "holiday_name": "International Coffee Day",
+    "description": "October 1 is annually celebrated as International Coffee Day. The unofficial holiday celebrates one of the most popular beverages in the world - coffee."
+  },
+  {
+    "date": "Oct 1",
+    "weekday": "Tuesday",
+    "holiday_name": "Balloons Around the World Day",
+    "description": "Balloons Around The World is a made-up holiday that aims to spread cheer around the world. It is celebrated annually on October 1."
+  },
+  {
+    "date": "Oct 2",
+    "weekday": "Wednesday",
+    "holiday_name": "Phileas Fogg Wager Day",
+    "description": "October 2 is Phileas Fogg Wager Day. The holiday celebrates key events in Jules Vernes novelAround the World in Eighty Days."
+  },
+  {
+    "date": "Oct 4",
+    "weekday": "Friday",
+    "holiday_name": "World Smile Day",
+    "description": "The first Friday of October every year is celebrated around the globe as World Smile Day. The unofficial holiday encourages people to do acts of kindness to spread good will and cheer."
+  },
+  {
+    "date": "Oct 4",
+    "weekday": "Friday",
+    "holiday_name": "Taco Day",
+    "description": "Lettuce taco 'bout Taco Day. It's on October 4 and that gives you the perfect excuse to spend the entire day eating tacos."
+  },
+  {
+    "date": "Oct 5",
+    "weekday": "Saturday",
+    "holiday_name": "Card Making Day",
+    "description": "Need a special way to tell your loved ones how much you care for them? Why not hand make a card for them on Card Making Day?"
+  },
+  {
+    "date": "Oct 5",
+    "weekday": "Saturday",
+    "holiday_name": "Chic Spy Day",
+    "description": "October 5 is Chic Spy Day, a day to acknowledge that a well-dressed spy is always more successful in catching the bad guys than a scruffy one."
+  },
+  {
+    "date": "Oct 6",
+    "weekday": "Sunday",
+    "holiday_name": "Mad Hatter Day",
+    "description": "Celebrated annually on October 6, Mad Hatter Day celebrates the Hatter, a key character in Lewis Carols Alice in Wonderland."
+  },
+  {
+    "date": "Oct 7",
+    "weekday": "Monday",
+    "holiday_name": "Frapp\u00e9 Day",
+    "description": "Whether you pronounce it with an emphasis on the accented e (frapay) or with a silent e (frap), we can all agree that the chilled and frothedcoffeeis yummy. Celebrate this beverage on October 7 or Frapp\u00e9 Day."
+  },
+  {
+    "date": "Oct 8",
+    "weekday": "Tuesday",
+    "holiday_name": "Pierogi Day",
+    "description": "October 8 is Pierogi Day, a day to stock up your fridge with delicious dumplings made of unleavened dough."
+  },
+  {
+    "date": "Oct 8",
+    "weekday": "Tuesday",
+    "holiday_name": "Ada Lovelace Day",
+    "description": "Ada Lovelace Day is celebrated annually on the second Tuesday of October."
+  },
+  {
+    "date": "Oct 9",
+    "weekday": "Wednesday",
+    "holiday_name": "Curious Events Day",
+    "description": "Love conspiracy theories? Enjoy pondering about bizarre events that seem to have no explanations? Then Curious Events Day, a made-up holiday celebrated every year on October 9, is just the holiday you need to celebrate!"
+  },
+  {
+    "date": "Oct 10",
+    "weekday": "Thursday",
+    "holiday_name": "Handbag Day",
+    "description": "Handbag Day is celebrated annually on October 10."
+  },
+  {
+    "date": "Oct 11",
+    "weekday": "Friday",
+    "holiday_name": "It's My Party Day",
+    "description": "October 11 is Its My Party Day, a great excuse to have a party for no reason at all! All you need to do is to invite all your friends and family to a fun party!"
+  },
+  {
+    "date": "Oct 12",
+    "weekday": "Saturday",
+    "holiday_name": "Astronomy Day",
+    "description": "Astronomy Day is celebrated twice a year, once in the spring and once in the fall."
+  },
+  {
+    "date": "Oct 12",
+    "weekday": "Saturday",
+    "holiday_name": "Old Farmers Day",
+    "description": "October 12 is Old Farmers Day, a day devoted to old farmers and their farming techniques."
+  },
+  {
+    "date": "Oct 13",
+    "weekday": "Sunday",
+    "holiday_name": "International Skeptics Day",
+    "description": "Are you one of those people who takes everything they hear with a grain of salt? Do you question everything and never accept things at their face value? Then, International Skeptics Day on October 13 is the holiday for you."
+  },
+  {
+    "date": "Oct 15",
+    "weekday": "Tuesday",
+    "holiday_name": "I Love Lucy Day",
+    "description": "October 15 is I Love Lucy Day, a day devoted to everything I Love Lucy, a black-and-white sitcom that aired in the 1950s in theUnited States."
+  },
+  {
+    "date": "Oct 16",
+    "weekday": "Wednesday",
+    "holiday_name": "Dictionary Day",
+    "description": "Dictionary Day is on October 16. The unofficial holiday celebrates the birth anniversary of American lexicographer, Noah Webster."
+  },
+  {
+    "date": "Oct 17",
+    "weekday": "Thursday",
+    "holiday_name": "Wear Something Gaudy Day",
+    "description": "On October 17 is Wear Something Gaudy Day. Celebrate this unofficial holiday by wearing everything flashy, loud and gaudy in your wardrobe!"
+  },
+  {
+    "date": "Oct 18",
+    "weekday": "Friday",
+    "holiday_name": "Chocolate Cupcake Day",
+    "description": "October 18 is Chocolate Cupcake Day. Need we say anything more?"
+  },
+  {
+    "date": "Oct 19",
+    "weekday": "Saturday",
+    "holiday_name": "Sweetest Day",
+    "description": "The third Saturday in October is celebrated as Sweetest Day in parts of the United States."
+  },
+  {
+    "date": "Oct 20",
+    "weekday": "Sunday",
+    "holiday_name": "International Sloth Day",
+    "description": "October 20 is International Sloth Day, a day to honor the adorable slow-moving, tree-dwelling, and leaf-eating mammals."
+  },
+  {
+    "date": "Oct 21",
+    "weekday": "Monday",
+    "holiday_name": "National Clean Out Your Virtual Desktop Day",
+    "description": "Take the third Monday of October to clean the mess on your desktop because it is National Clean Your Virtual Desktop Day."
+  },
+  {
+    "date": "Oct 21",
+    "weekday": "Monday",
+    "holiday_name": "Count your Buttons Day",
+    "description": "October 21 is Count Your Buttons Day. As far as made-up holidays go, this one is a head scratcher."
+  },
+  {
+    "date": "Oct 22",
+    "weekday": "Tuesday",
+    "holiday_name": "Caps Lock Day",
+    "description": "October 22 IS CAPS LOCK DAY! The day celebrates the Caps Lock on a computer keyboard and was created by Derek Arnold in 2000."
+  },
+  {
+    "date": "Oct 23",
+    "weekday": "Wednesday",
+    "holiday_name": "Mole Day",
+    "description": "Mole Day is an unofficial holiday celebrated by chemists and chemistry students on October 23 in honor of the mole, a measuring unit in Chemistry."
+  },
+  {
+    "date": "Oct 24",
+    "weekday": "Thursday",
+    "holiday_name": "Bologna Day",
+    "description": "October 24 is Bologna Day, an unofficial holiday that was created to honor everyone's favorite sausage and sandwich meat - bologna."
+  },
+  {
+    "date": "Oct 25",
+    "weekday": "Friday",
+    "holiday_name": "Sourest Day",
+    "description": "October 25 is Sourest Day, a day to celebrate all things sour people or foods."
+  },
+  {
+    "date": "Oct 26",
+    "weekday": "Saturday",
+    "holiday_name": "Howl at the Moon Day and Night",
+    "description": "October 26 is Howl At the Moon Day and Night."
+  },
+  {
+    "date": "Oct 27",
+    "weekday": "Sunday",
+    "holiday_name": "American Beer Day",
+    "description": "On October 27, visit your favorite pub or bar and enjoy some American brewed beers because it is American Beer Day!"
+  },
+  {
+    "date": "Oct 28",
+    "weekday": "Monday",
+    "holiday_name": "International Animation Day",
+    "description": "October 28 is International Animation Day. It's a day to recognize and celebrate the artists, the scientists and the technicians behind animated art including animated movies."
+  },
+  {
+    "date": "Oct 29",
+    "weekday": "Tuesday",
+    "holiday_name": "Internet Day",
+    "description": "October 29 is celebrated every year as Internet Day around the world."
+  },
+  {
+    "date": "Oct 30",
+    "weekday": "Wednesday",
+    "holiday_name": "Candy Corn Day",
+    "description": "Nothing saysHalloweenis just around the corner than a bowl full of candy corn. Celebrate this multicolored candy that resembles a corn kernel on October 30, Candy Corn Day."
+  },
+  {
+    "date": "Oct 31",
+    "weekday": "Thursday",
+    "holiday_name": "Magic Day",
+    "description": "October 31 is Magic Day, a day that commemorates the life and times of one of the worlds best-known magicians Harry Houdini."
+  },
+  {
+    "date": "Nov 1",
+    "weekday": "Friday",
+    "holiday_name": "Author's Day",
+    "description": "November 1 is Author's Day, a day to honor all your favorite authors and to encourage any writers in your life to keep working on their magnum opus."
+  },
+  {
+    "date": "Nov 2",
+    "weekday": "Saturday",
+    "holiday_name": "Deviled Eggs Day",
+    "description": "On November 2, boil some eggs, and make some delicious deviled or devilled eggs as they are spelled in theUnited Kingdom, because it is Deviled Eggs Day."
+  },
+  {
+    "date": "Nov 3",
+    "weekday": "Sunday",
+    "holiday_name": "Zero Tasking Day",
+    "description": "The first Sunday of November is not only the end of theDaylight Saving Timeperiod in theUnited States, it is also Zero Tasking Day."
+  },
+  {
+    "date": "Nov 3",
+    "weekday": "Sunday",
+    "holiday_name": "Sandwich Day",
+    "description": "November 3 is celebrated every year as Sandwich Day."
+  },
+  {
+    "date": "Nov 4",
+    "weekday": "Monday",
+    "holiday_name": "Common Sense Day",
+    "description": "Are you familiar with the saying common sense is not that common\u201d? Celebrate this rarely used quality on November 4, Common Sense Day."
+  },
+  {
+    "date": "Nov 6",
+    "weekday": "Wednesday",
+    "holiday_name": "Saxophone Day",
+    "description": "November 6 is Saxophone Day, an unofficial holiday that celebrates the woodwind instrument popularly used in jazz, classical music, and military ensembles."
+  },
+  {
+    "date": "Nov 7",
+    "weekday": "Thursday",
+    "holiday_name": "Men Make Dinner Day",
+    "description": "The first Thursday of November is Men Make Dinner Day, a made-up holiday that encourages men to actively participate in household matters such as cooking."
+  },
+  {
+    "date": "Nov 7",
+    "weekday": "Thursday",
+    "holiday_name": "International Stout Day",
+    "description": "Usually celebrated on the first Thursday of November, International Stout Day pays tribute to the stout, a popular type of beer."
+  },
+  {
+    "date": "Nov 7",
+    "weekday": "Thursday",
+    "holiday_name": "Bittersweet Chocolate with Almonds Day",
+    "description": "It's healthy, it's delicious and it's an easy-to-make, go-to snack. Celebrate almonds covered with sweet and bitter dark chocolate on November 7 or Bittersweet Chocolate With Almond Day."
+  },
+  {
+    "date": "Nov 8",
+    "weekday": "Friday",
+    "holiday_name": "Tongue Twister Day",
+    "description": "Say,Peter Piper picked a peck of pickled peppersten times really fast on November 8, because it is Tongue Twister Day!"
+  },
+  {
+    "date": "Nov 9",
+    "weekday": "Saturday",
+    "holiday_name": "Chaos Never Dies Day",
+    "description": "Feel like your life sometimes spirals into a chaotic mess? Then Chaos Never Dies Day on November 9 is the holiday for you."
+  },
+  {
+    "date": "Nov 10",
+    "weekday": "Sunday",
+    "holiday_name": "Forget Me Not Day",
+    "description": "November 10 is Forget Me Not Day. All of us have people in our lives that we care about but are bad about keeping in touch with."
+  },
+  {
+    "date": "Nov 10",
+    "weekday": "Sunday",
+    "holiday_name": "Vanilla Cupcake Day",
+    "description": "November 10 is Vanilla Cupcake Day, an annual excuse to bake and consume copious amounts of the delicious dessert."
+  },
+  {
+    "date": "Nov 11",
+    "weekday": "Monday",
+    "holiday_name": "Origami Day",
+    "description": "November 11 is Origami Day. First observed in Japan, the unofficial holiday honors the ancient Japanese art of creating intricate objects and complex shapes out of square pieces of paper."
+  },
+  {
+    "date": "Nov 12",
+    "weekday": "Tuesday",
+    "holiday_name": "Happy Hour Day",
+    "description": "November 12 is Happy Hour Day. So, on this unofficial fun holiday take advantage of happy hours at your favorite bar, cafe or restaurant."
+  },
+  {
+    "date": "Nov 13",
+    "weekday": "Wednesday",
+    "holiday_name": "World Kindness Day",
+    "description": "Oh, hello dear reader! Thank you so much for visiting this page! Will you please keep coming back? November 13 is World Kindness Day, a day to be kind and do acts of kindness."
+  },
+  {
+    "date": "Nov 13",
+    "weekday": "Wednesday",
+    "holiday_name": "Sadie Hawkins Day",
+    "description": "November 13 is annually celebrated in theUnited Statesas Sadie Hawkins Day. Inspired by events in the comic strip, Lil Abner, this uniquely American holiday encourages women to take charge of their lives and to ask men out on a date."
+  },
+  {
+    "date": "Nov 14",
+    "weekday": "Thursday",
+    "holiday_name": "Spicy Guacamole Day",
+    "description": "November 14 is Spicy Guacamole Day. The holiday encourages guacamole lovers to spice up their favorite party dip."
+  },
+  {
+    "date": "Nov 14",
+    "weekday": "Thursday",
+    "holiday_name": "Pickle Day",
+    "description": "November 14 is Pickle Day, a day to stock up your larders and pantries with pickles and add to pickles to every meal you eat."
+  },
+  {
+    "date": "Nov 15",
+    "weekday": "Friday",
+    "holiday_name": "Clean Out Your Refrigerator Day",
+    "description": "November 15 is Clean Out Your Refrigerator Day, a day to clear out your fridge of all the suspicious looking, probably living and now procreating foods."
+  },
+  {
+    "date": "Nov 16",
+    "weekday": "Saturday",
+    "holiday_name": "Fast Food Day",
+    "description": "Head out to your closest fast food restaurant and indulge in your favorite fast food on November 16 because it is Fast Food Day."
+  },
+  {
+    "date": "Nov 17",
+    "weekday": "Sunday",
+    "holiday_name": "Take A Hike Day",
+    "description": "On November 17, wear your most comfortable hiking shoes and take a hike because it is Take A Hike Day."
+  },
+  {
+    "date": "Nov 18",
+    "weekday": "Monday",
+    "holiday_name": "Push Button Phone Day",
+    "description": "November 18 is Push Button Phone Day. The unofficial holiday commemorates the anniversary of the introduction of the push button phone by Bell Systems in theUnited States."
+  },
+  {
+    "date": "Nov 20",
+    "weekday": "Wednesday",
+    "holiday_name": "National Absurdity Day",
+    "description": "Embrace the absurd and the ridiculous on November 20, National Absurdity Day. This holiday encourages people to acknowledge that absurdity is part of life."
+  },
+  {
+    "date": "Nov 21",
+    "weekday": "Thursday",
+    "holiday_name": "Use Less Stuff Day",
+    "description": "The Thursday beforeThanksgivingday is Use Less Stuff Day."
+  },
+  {
+    "date": "Nov 21",
+    "weekday": "Thursday",
+    "holiday_name": "World Hello Day",
+    "description": "World Hello Day on November 21 is an unofficial holiday created to promote world peace through interpersonal communication."
+  },
+  {
+    "date": "Nov 22",
+    "weekday": "Friday",
+    "holiday_name": "Go For a Ride Day",
+    "description": "On November 22, take out your car, bike, segway, unicycle, kayak, horse or your tractor for a spin because it is Go For A Ride Day."
+  },
+  {
+    "date": "Nov 22",
+    "weekday": "Friday",
+    "holiday_name": "Buy Nothing Day",
+    "description": "The Friday afterThanksgivingday in theUnited Statesis Buy Nothing Day."
+  },
+  {
+    "date": "Nov 23",
+    "weekday": "Saturday",
+    "holiday_name": "Fibonacci Day",
+    "description": "November 23 is Fibonacci Day, an annual holiday that honors one of the most influential mathematicians of the Middle Ages - Leonardo Bonacci."
+  },
+  {
+    "date": "Nov 24",
+    "weekday": "Sunday",
+    "holiday_name": "Celebrate Your Unique Talent Day",
+    "description": "Embrace your unique talent and celebrate it, no matter how quirky it is on November 24 or Celebrate Your Unique Talent Day."
+  },
+  {
+    "date": "Nov 25",
+    "weekday": "Monday",
+    "holiday_name": "Shopping Reminder Day",
+    "description": "On November 25, get your holiday shopping list organized and get ready to shop till you drop because it is Shopping Reminder Day!"
+  },
+  {
+    "date": "Nov 26",
+    "weekday": "Tuesday",
+    "holiday_name": "Cake Day",
+    "description": "Cake Day is on November 26. Have your cake and eat it too on one of the greatest holidays ever invented."
+  },
+  {
+    "date": "Nov 28",
+    "weekday": "Thursday",
+    "holiday_name": "Red Planet Day",
+    "description": "November 28 is Red Planet Day, a day to celebrate and learn more about the Red Planet - Mars. The planet is called so because it appears red in color."
+  },
+  {
+    "date": "Nov 29",
+    "weekday": "Friday",
+    "holiday_name": "Electronic Greeting Card Day",
+    "description": "November 29 is Electronic Greeting Card Day. Spread cheer by sending personalized e-cards to your family and friends."
+  },
+  {
+    "date": "Nov 30",
+    "weekday": "Saturday",
+    "holiday_name": "Computer Security Day",
+    "description": "November 30 is Computer Security Day. The unofficial holiday encourages people to secure their computers and their personal information."
+  },
+  {
+    "date": "Dec 1",
+    "weekday": "Sunday",
+    "holiday_name": "Eat a Red Apple Day",
+    "description": "December 1 is Eat a Red Apple Day, an unofficial holiday that celebrates one of the healthiest fruits available in nature's pantry."
+  },
+  {
+    "date": "Dec 2",
+    "weekday": "Monday",
+    "holiday_name": "Fritters Day",
+    "description": "December 2 is Fritters Day, an unofficial holiday that is dedicated to the snack made by frying battered vegetables, fruits or meat."
+  },
+  {
+    "date": "Dec 3",
+    "weekday": "Tuesday",
+    "holiday_name": "Make a Gift Day",
+    "description": "Take out the glitter, the yarn and your glue gun because it is Make A Gift Day."
+  },
+  {
+    "date": "Dec 4",
+    "weekday": "Wednesday",
+    "holiday_name": "Wear Brown Shoes Day",
+    "description": "On December 4 take our your best brown shoes and wear them because it is Wear Brown Shoes Day."
+  },
+  {
+    "date": "Dec 5",
+    "weekday": "Thursday",
+    "holiday_name": "Day of the Ninja",
+    "description": "December 5 is the Day of the Ninja, a day to honor and celebrate the sneaky and stealthy masked warriors in black garb from ancient Japan."
+  },
+  {
+    "date": "Dec 6",
+    "weekday": "Friday",
+    "holiday_name": "Put on Your Own Shoes Day",
+    "description": "December 6 is Put On Your Own Shoes Day. It is a day to, well, put on your own shoes or if you are in the Southern Hemisphere, strap on your own sandals."
+  },
+  {
+    "date": "Dec 6",
+    "weekday": "Friday",
+    "holiday_name": "Microwave Oven Day",
+    "description": "December 6 is Microwave Oven Day. It is a day to celebrate and honor the invention that has made the lives of college students, single people and over-worked parents easier, by making it convenient and faster for them to cook and reheat food."
+  },
+  {
+    "date": "Dec 7",
+    "weekday": "Saturday",
+    "holiday_name": "Letter Writing Day",
+    "description": "On December 7 bring out your finest stationery and your writing equipment and pen a letter to someone special because it is Letter Writing Day!"
+  },
+  {
+    "date": "Dec 8",
+    "weekday": "Sunday",
+    "holiday_name": "Pretend to Be a Time Traveler Day",
+    "description": "December 8 is Pretend To Be A Time Traveler Day."
+  },
+  {
+    "date": "Dec 9",
+    "weekday": "Monday",
+    "holiday_name": "Christmas Card Day",
+    "description": "Christmasis just a few weeks away, and if you havent sent out your greeting cards, make sure you do it on December 9 because it is Christmas Card Day."
+  },
+  {
+    "date": "Dec 10",
+    "weekday": "Tuesday",
+    "holiday_name": "Dewey Decimal System Day",
+    "description": "December 10 is Dewey Decimal System Day. The day commemorates the birth of Melville Dewey, the inventor of the Dewey Decimal System of library classification."
+  },
+  {
+    "date": "Dec 10",
+    "weekday": "Tuesday",
+    "holiday_name": "Jane Addams Day",
+    "description": "December 10 is Jane Addams Day, an unofficial holiday that celebrates the first American woman to receive the Nobel Peace Prize."
+  },
+  {
+    "date": "Dec 11",
+    "weekday": "Wednesday",
+    "holiday_name": "Noodle Ring Day",
+    "description": "December 11 is Noodle Ring Day, a day for comforting baked pasta."
+  },
+  {
+    "date": "Dec 12",
+    "weekday": "Thursday",
+    "holiday_name": "Gingerbread House Day",
+    "description": "Take out all your baking supplies, unleash your imagination and build a gingerbread house on December 12 or Gingerbread House Day."
+  },
+  {
+    "date": "Dec 13",
+    "weekday": "Friday",
+    "holiday_name": "Official Lost and Found Day",
+    "description": "The second Friday of December is celebrated every year as Official Lost and Found Day."
+  },
+  {
+    "date": "Dec 14",
+    "weekday": "Saturday",
+    "holiday_name": "Monkey Day",
+    "description": "December 14 is Monkey Day. The day celebrates monkeys and all other primate cousins of humans such as apes, chimpanzees, and gibbons."
+  },
+  {
+    "date": "Dec 16",
+    "weekday": "Monday",
+    "holiday_name": "Chocolate Covered Anything Day",
+    "description": "December 16 is all about chocolate because it is Chocolate Covered Anything Day."
+  },
+  {
+    "date": "Dec 17",
+    "weekday": "Tuesday",
+    "holiday_name": "Wright Brothers Day",
+    "description": "Wright Brothers Day on December 17 recognizes the first time Orville and Wilbur Wright successfully flew their heavier-than-air, mechanically propelled aircraft in 1903."
+  },
+  {
+    "date": "Dec 20",
+    "weekday": "Friday",
+    "holiday_name": "Underdog Day",
+    "description": "Underdog Day is celebrated every year on the third Friday of December."
+  },
+  {
+    "date": "Dec 20",
+    "weekday": "Friday",
+    "holiday_name": "Ugly Sweater Day",
+    "description": "The third Friday of December is Ugly Sweater Day."
+  },
+  {
+    "date": "Dec 20",
+    "weekday": "Friday",
+    "holiday_name": "Sangria Day",
+    "description": "December 20 is Sangria Day. This unofficial holiday encourages people around the world to enjoy the day with a tall glass of the delicious alcoholic beverage."
+  },
+  {
+    "date": "Dec 21",
+    "weekday": "Saturday",
+    "holiday_name": "International Dalek Remembrance Day",
+    "description": "December 21 is International Dalek Remembrance Day, a day to remember the extraterrestrial cyborgs called Daleks in BBC's Doctor Who universe."
+  },
+  {
+    "date": "Dec 22",
+    "weekday": "Sunday",
+    "holiday_name": "Date Nut Bread Day",
+    "description": "On December 22 add date nut bread to your holiday baking list because it is Date Nut Bread Day."
+  },
+  {
+    "date": "Dec 23",
+    "weekday": "Monday",
+    "holiday_name": "Festivus",
+    "description": "Festivus is a made up secular holiday popularized and celebrated by the fans of the TV series, Seinfeld."
+  },
+  {
+    "date": "Dec 24",
+    "weekday": "Tuesday",
+    "holiday_name": "Eggnog Day",
+    "description": "December 24 is Eggnog Day, a day to celebrate, and drink a delicious cocktail of eggs, milk, cream, sugar and spices."
+  },
+  {
+    "date": "Dec 25",
+    "weekday": "Wednesday",
+    "holiday_name": "Grav Mass Day",
+    "description": "Grav-Mass Day is an unofficial holiday celebrated annually on December 25, the birth anniversary of English physicist and mathematician Isaac Newton."
+  },
+  {
+    "date": "Dec 25",
+    "weekday": "Wednesday",
+    "holiday_name": "A'phabet Day or No \"L\" Day",
+    "description": "December 25 is A'phabet Day or No \"L\" Day, a day to skip the L in all your correspondences and communications - written or otherwise."
+  },
+  {
+    "date": "Dec 26",
+    "weekday": "Thursday",
+    "holiday_name": "Thank You Note Day",
+    "description": "On December 26, take out your best stationary and write thank you notes to everyone you need to thank because it is Write a Thank You Note Day."
+  },
+  {
+    "date": "Dec 27",
+    "weekday": "Friday",
+    "holiday_name": "No Interruptions Day",
+    "description": "Put up a \"Do Not Disturb\" sign on your door and ban all interruptions on December 27 because it is No Interruptions Day."
+  },
+  {
+    "date": "Dec 28",
+    "weekday": "Saturday",
+    "holiday_name": "Card Playing Day",
+    "description": "Tired of all the holiday activities? Need a break before the New Year fun begins? Get your family and friends together for a quiet and fun night in on Card Playing Day."
+  },
+  {
+    "date": "Dec 29",
+    "weekday": "Sunday",
+    "holiday_name": "Pepper Pot Day",
+    "description": "December 29 is Pepper Pot Day, an unofficial holiday that honors the stew famously associated with George Washington's army during the American Revolution."
+  },
+  {
+    "date": "Dec 30",
+    "weekday": "Monday",
+    "holiday_name": "Bicarbonate of Soda Day",
+    "description": "December 30 is Bicarbonate Of Soda Day. Also known as baking soda, sodium bicarbonate is one of the most commonly found chemical compound in households."
+  },
+  {
+    "date": "Dec 31",
+    "weekday": "Tuesday",
+    "holiday_name": "Make Up Your Mind Day",
+    "description": "Are you indecisive? Then, Make Up Your Mind Day is the unofficial holiday you should choose to close out the year with."
+  }
+]

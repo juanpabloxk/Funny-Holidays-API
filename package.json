@@ -1,0 +1,13 @@
+{
+  "name": "HolidaysServerlessAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^37.7.1"
+  },
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  }
+}
